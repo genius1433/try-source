@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\интерфейс Icomparable трена\интерфейс Icomparable трена\bin\Debug\интерфейс Icomparable трена.exe.config
+C:\Users\User\source\repos\интерфейс Icomparable трена\интерфейс Icomparable трена\bin\Debug\интерфейс Icomparable трена.exe
+C:\Users\User\source\repos\интерфейс Icomparable трена\интерфейс Icomparable трена\bin\Debug\интерфейс Icomparable трена.pdb
+C:\Users\User\source\repos\интерфейс Icomparable трена\интерфейс Icomparable трена\obj\Debug\интерфейс Icomparable трена.csprojAssemblyReference.cache
+C:\Users\User\source\repos\интерфейс Icomparable трена\интерфейс Icomparable трена\obj\Debug\интерфейс Icomparable трена.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\интерфейс Icomparable трена\интерфейс Icomparable трена\obj\Debug\интерфейс Icomparable трена.exe
+C:\Users\User\source\repos\интерфейс Icomparable трена\интерфейс Icomparable трена\obj\Debug\интерфейс Icomparable трена.pdb

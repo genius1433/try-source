@@ -1,0 +1,7 @@
+c:\users\user\source\repos\определение кол-во цифер\определение кол-во цифер\bin\Debug\определение кол-во цифер.exe.config
+c:\users\user\source\repos\определение кол-во цифер\определение кол-во цифер\bin\Debug\определение кол-во цифер.exe
+c:\users\user\source\repos\определение кол-во цифер\определение кол-во цифер\bin\Debug\определение кол-во цифер.pdb
+c:\users\user\source\repos\определение кол-во цифер\определение кол-во цифер\obj\Debug\определение кол-во цифер.csprojAssemblyReference.cache
+c:\users\user\source\repos\определение кол-во цифер\определение кол-во цифер\obj\Debug\определение кол-во цифер.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\определение кол-во цифер\определение кол-во цифер\obj\Debug\определение кол-во цифер.exe
+c:\users\user\source\repos\определение кол-во цифер\определение кол-во цифер\obj\Debug\определение кол-во цифер.pdb

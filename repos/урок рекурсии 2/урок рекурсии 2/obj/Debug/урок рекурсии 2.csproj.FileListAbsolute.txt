@@ -1,0 +1,7 @@
+c:\users\user\source\repos\урок рекурсии 2\урок рекурсии 2\bin\Debug\урок рекурсии 2.exe.config
+c:\users\user\source\repos\урок рекурсии 2\урок рекурсии 2\bin\Debug\урок рекурсии 2.exe
+c:\users\user\source\repos\урок рекурсии 2\урок рекурсии 2\bin\Debug\урок рекурсии 2.pdb
+c:\users\user\source\repos\урок рекурсии 2\урок рекурсии 2\obj\Debug\урок рекурсии 2.csprojAssemblyReference.cache
+c:\users\user\source\repos\урок рекурсии 2\урок рекурсии 2\obj\Debug\урок рекурсии 2.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\урок рекурсии 2\урок рекурсии 2\obj\Debug\урок рекурсии 2.exe
+c:\users\user\source\repos\урок рекурсии 2\урок рекурсии 2\obj\Debug\урок рекурсии 2.pdb

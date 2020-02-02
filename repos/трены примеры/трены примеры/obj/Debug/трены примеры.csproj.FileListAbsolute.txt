@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\трены примеры\трены примеры\obj\Debug\трены примеры.csprojAssemblyReference.cache
+C:\Users\User\source\repos\трены примеры\трены примеры\obj\Debug\трены примеры.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\трены примеры\трены примеры\bin\Debug\трены примеры.exe.config
+C:\Users\User\source\repos\трены примеры\трены примеры\bin\Debug\трены примеры.exe
+C:\Users\User\source\repos\трены примеры\трены примеры\bin\Debug\трены примеры.pdb
+C:\Users\User\source\repos\трены примеры\трены примеры\obj\Debug\трены примеры.exe
+C:\Users\User\source\repos\трены примеры\трены примеры\obj\Debug\трены примеры.pdb

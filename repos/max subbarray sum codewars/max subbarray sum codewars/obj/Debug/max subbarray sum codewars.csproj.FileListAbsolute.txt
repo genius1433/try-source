@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\max subbarray sum codewars\max subbarray sum codewars\bin\Debug\max subbarray sum codewars.exe.config
+C:\Users\User\source\repos\max subbarray sum codewars\max subbarray sum codewars\bin\Debug\max subbarray sum codewars.exe
+C:\Users\User\source\repos\max subbarray sum codewars\max subbarray sum codewars\bin\Debug\max subbarray sum codewars.pdb
+C:\Users\User\source\repos\max subbarray sum codewars\max subbarray sum codewars\obj\Debug\max subbarray sum codewars.csprojAssemblyReference.cache
+C:\Users\User\source\repos\max subbarray sum codewars\max subbarray sum codewars\obj\Debug\max subbarray sum codewars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\max subbarray sum codewars\max subbarray sum codewars\obj\Debug\max subbarray sum codewars.exe
+C:\Users\User\source\repos\max subbarray sum codewars\max subbarray sum codewars\obj\Debug\max subbarray sum codewars.pdb

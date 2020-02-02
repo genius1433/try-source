@@ -1,0 +1,7 @@
+c:\users\user\source\repos\наследование 3\наследование 3\bin\Debug\наследование 3.exe.config
+c:\users\user\source\repos\наследование 3\наследование 3\bin\Debug\наследование 3.exe
+c:\users\user\source\repos\наследование 3\наследование 3\bin\Debug\наследование 3.pdb
+c:\users\user\source\repos\наследование 3\наследование 3\obj\Debug\наследование 3.csprojAssemblyReference.cache
+c:\users\user\source\repos\наследование 3\наследование 3\obj\Debug\наследование 3.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\наследование 3\наследование 3\obj\Debug\наследование 3.exe
+c:\users\user\source\repos\наследование 3\наследование 3\obj\Debug\наследование 3.pdb

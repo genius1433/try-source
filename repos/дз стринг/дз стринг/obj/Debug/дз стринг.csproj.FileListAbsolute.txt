@@ -1,0 +1,7 @@
+c:\users\user\source\repos\дз стринг\дз стринг\bin\Debug\дз стринг.exe.config
+c:\users\user\source\repos\дз стринг\дз стринг\bin\Debug\дз стринг.exe
+c:\users\user\source\repos\дз стринг\дз стринг\bin\Debug\дз стринг.pdb
+c:\users\user\source\repos\дз стринг\дз стринг\obj\Debug\дз стринг.csprojAssemblyReference.cache
+c:\users\user\source\repos\дз стринг\дз стринг\obj\Debug\дз стринг.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\дз стринг\дз стринг\obj\Debug\дз стринг.exe
+c:\users\user\source\repos\дз стринг\дз стринг\obj\Debug\дз стринг.pdb

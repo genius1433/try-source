@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\работа с каталогами\работа с каталогами\bin\Debug\работа с каталогами.exe.config
+C:\Users\user\source\repos\работа с каталогами\работа с каталогами\bin\Debug\работа с каталогами.exe
+C:\Users\user\source\repos\работа с каталогами\работа с каталогами\bin\Debug\работа с каталогами.pdb
+C:\Users\user\source\repos\работа с каталогами\работа с каталогами\obj\Debug\работа с каталогами.csprojAssemblyReference.cache
+C:\Users\user\source\repos\работа с каталогами\работа с каталогами\obj\Debug\работа с каталогами.exe
+C:\Users\user\source\repos\работа с каталогами\работа с каталогами\obj\Debug\работа с каталогами.pdb

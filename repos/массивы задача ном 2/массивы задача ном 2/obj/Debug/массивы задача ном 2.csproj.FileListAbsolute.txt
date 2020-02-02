@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\массивы задача ном 2\массивы задача ном 2\bin\Debug\массивы задача ном 2.exe.config
+C:\Users\User\source\repos\массивы задача ном 2\массивы задача ном 2\bin\Debug\массивы задача ном 2.exe
+C:\Users\User\source\repos\массивы задача ном 2\массивы задача ном 2\bin\Debug\массивы задача ном 2.pdb
+C:\Users\User\source\repos\массивы задача ном 2\массивы задача ном 2\obj\Debug\массивы задача ном 2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\массивы задача ном 2\массивы задача ном 2\obj\Debug\массивы задача ном 2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\массивы задача ном 2\массивы задача ном 2\obj\Debug\массивы задача ном 2.exe
+C:\Users\User\source\repos\массивы задача ном 2\массивы задача ном 2\obj\Debug\массивы задача ном 2.pdb

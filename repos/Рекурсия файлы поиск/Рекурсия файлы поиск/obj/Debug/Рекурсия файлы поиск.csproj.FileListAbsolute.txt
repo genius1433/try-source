@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Рекурсия файлы поиск\Рекурсия файлы поиск\bin\Debug\Рекурсия файлы поиск.exe.config
+C:\Users\user\source\repos\Рекурсия файлы поиск\Рекурсия файлы поиск\bin\Debug\Рекурсия файлы поиск.exe
+C:\Users\user\source\repos\Рекурсия файлы поиск\Рекурсия файлы поиск\bin\Debug\Рекурсия файлы поиск.pdb
+C:\Users\user\source\repos\Рекурсия файлы поиск\Рекурсия файлы поиск\obj\Debug\Рекурсия файлы поиск.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Рекурсия файлы поиск\Рекурсия файлы поиск\obj\Debug\Рекурсия файлы поиск.exe
+C:\Users\user\source\repos\Рекурсия файлы поиск\Рекурсия файлы поиск\obj\Debug\Рекурсия файлы поиск.pdb

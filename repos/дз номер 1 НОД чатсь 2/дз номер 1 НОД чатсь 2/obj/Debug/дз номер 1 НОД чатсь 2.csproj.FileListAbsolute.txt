@@ -1,0 +1,7 @@
+c:\users\user\source\repos\дз номер 1 НОД чатсь 2\дз номер 1 НОД чатсь 2\bin\Debug\дз номер 1 НОД чатсь 2.exe.config
+c:\users\user\source\repos\дз номер 1 НОД чатсь 2\дз номер 1 НОД чатсь 2\bin\Debug\дз номер 1 НОД чатсь 2.exe
+c:\users\user\source\repos\дз номер 1 НОД чатсь 2\дз номер 1 НОД чатсь 2\bin\Debug\дз номер 1 НОД чатсь 2.pdb
+c:\users\user\source\repos\дз номер 1 НОД чатсь 2\дз номер 1 НОД чатсь 2\obj\Debug\дз номер 1 НОД чатсь 2.csprojAssemblyReference.cache
+c:\users\user\source\repos\дз номер 1 НОД чатсь 2\дз номер 1 НОД чатсь 2\obj\Debug\дз номер 1 НОД чатсь 2.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\дз номер 1 НОД чатсь 2\дз номер 1 НОД чатсь 2\obj\Debug\дз номер 1 НОД чатсь 2.exe
+c:\users\user\source\repos\дз номер 1 НОД чатсь 2\дз номер 1 НОД чатсь 2\obj\Debug\дз номер 1 НОД чатсь 2.pdb

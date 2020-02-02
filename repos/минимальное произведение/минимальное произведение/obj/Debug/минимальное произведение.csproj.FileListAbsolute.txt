@@ -1,0 +1,7 @@
+c:\users\user\source\repos\минимальное произведение\минимальное произведение\bin\Debug\минимальное произведение.exe.config
+c:\users\user\source\repos\минимальное произведение\минимальное произведение\bin\Debug\минимальное произведение.exe
+c:\users\user\source\repos\минимальное произведение\минимальное произведение\bin\Debug\минимальное произведение.pdb
+c:\users\user\source\repos\минимальное произведение\минимальное произведение\obj\Debug\минимальное произведение.csprojAssemblyReference.cache
+c:\users\user\source\repos\минимальное произведение\минимальное произведение\obj\Debug\минимальное произведение.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\минимальное произведение\минимальное произведение\obj\Debug\минимальное произведение.exe
+c:\users\user\source\repos\минимальное произведение\минимальное произведение\obj\Debug\минимальное произведение.pdb

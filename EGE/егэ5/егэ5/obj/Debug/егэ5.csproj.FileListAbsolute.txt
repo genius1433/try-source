@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\егэ5\егэ5\bin\Debug\егэ5.exe.config
+C:\Users\User\source\repos\егэ5\егэ5\bin\Debug\егэ5.exe
+C:\Users\User\source\repos\егэ5\егэ5\bin\Debug\егэ5.pdb
+C:\Users\User\source\repos\егэ5\егэ5\obj\Debug\егэ5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\егэ5\егэ5\obj\Debug\егэ5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\егэ5\егэ5\obj\Debug\егэ5.exe
+C:\Users\User\source\repos\егэ5\егэ5\obj\Debug\егэ5.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\static модификтаор\static модификтаор\bin\Debug\static модификтаор.exe.config
+C:\Users\User\source\repos\static модификтаор\static модификтаор\bin\Debug\static модификтаор.exe
+C:\Users\User\source\repos\static модификтаор\static модификтаор\bin\Debug\static модификтаор.pdb
+C:\Users\User\source\repos\static модификтаор\static модификтаор\obj\Debug\static модификтаор.csprojAssemblyReference.cache
+C:\Users\User\source\repos\static модификтаор\static модификтаор\obj\Debug\static модификтаор.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\static модификтаор\static модификтаор\obj\Debug\static модификтаор.exe
+C:\Users\User\source\repos\static модификтаор\static модификтаор\obj\Debug\static модификтаор.pdb

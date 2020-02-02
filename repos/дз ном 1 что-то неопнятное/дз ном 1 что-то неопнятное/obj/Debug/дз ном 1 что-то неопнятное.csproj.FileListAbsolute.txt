@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\дз ном 1 что-то неопнятное\дз ном 1 что-то неопнятное\obj\Debug\дз ном 1 что-то неопнятное.csprojAssemblyReference.cache
+C:\Users\User\source\repos\дз ном 1 что-то неопнятное\дз ном 1 что-то неопнятное\obj\Debug\дз ном 1 что-то неопнятное.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\дз ном 1 что-то неопнятное\дз ном 1 что-то неопнятное\bin\Debug\дз ном 1 что-то неопнятное.exe.config
+C:\Users\User\source\repos\дз ном 1 что-то неопнятное\дз ном 1 что-то неопнятное\bin\Debug\дз ном 1 что-то неопнятное.exe
+C:\Users\User\source\repos\дз ном 1 что-то неопнятное\дз ном 1 что-то неопнятное\bin\Debug\дз ном 1 что-то неопнятное.pdb
+C:\Users\User\source\repos\дз ном 1 что-то неопнятное\дз ном 1 что-то неопнятное\obj\Debug\дз ном 1 что-то неопнятное.exe
+C:\Users\User\source\repos\дз ном 1 что-то неопнятное\дз ном 1 что-то неопнятное\obj\Debug\дз ном 1 что-то неопнятное.pdb

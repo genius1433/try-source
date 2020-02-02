@@ -1,0 +1,7 @@
+c:\users\user\source\repos\смена диагоналей дз ном 4\смена диагоналей дз ном 4\bin\Debug\смена диагоналей дз ном 4.exe.config
+c:\users\user\source\repos\смена диагоналей дз ном 4\смена диагоналей дз ном 4\bin\Debug\смена диагоналей дз ном 4.exe
+c:\users\user\source\repos\смена диагоналей дз ном 4\смена диагоналей дз ном 4\bin\Debug\смена диагоналей дз ном 4.pdb
+c:\users\user\source\repos\смена диагоналей дз ном 4\смена диагоналей дз ном 4\obj\Debug\смена диагоналей дз ном 4.csprojAssemblyReference.cache
+c:\users\user\source\repos\смена диагоналей дз ном 4\смена диагоналей дз ном 4\obj\Debug\смена диагоналей дз ном 4.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\смена диагоналей дз ном 4\смена диагоналей дз ном 4\obj\Debug\смена диагоналей дз ном 4.exe
+c:\users\user\source\repos\смена диагоналей дз ном 4\смена диагоналей дз ном 4\obj\Debug\смена диагоналей дз ном 4.pdb

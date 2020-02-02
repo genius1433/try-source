@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Олимпиада турнир", "Олимпиада турнир\Олимпиада турнир.csproj", "{8B756AED-EB44-4BF2-8D65-A70825B3C4B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B756AED-EB44-4BF2-8D65-A70825B3C4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B756AED-EB44-4BF2-8D65-A70825B3C4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B756AED-EB44-4BF2-8D65-A70825B3C4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B756AED-EB44-4BF2-8D65-A70825B3C4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3B7C8D-7279-4F39-B7B3-92EF23E9D445}
+	EndGlobalSection
+EndGlobal

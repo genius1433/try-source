@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\фигуры и наследование дз\фигуры и наследование дз\obj\Debug\фигуры и наследование дз.csprojAssemblyReference.cache
+C:\Users\User\source\repos\фигуры и наследование дз\фигуры и наследование дз\obj\Debug\фигуры и наследование дз.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\фигуры и наследование дз\фигуры и наследование дз\bin\Debug\фигуры и наследование дз.exe.config
+C:\Users\User\source\repos\фигуры и наследование дз\фигуры и наследование дз\bin\Debug\фигуры и наследование дз.exe
+C:\Users\User\source\repos\фигуры и наследование дз\фигуры и наследование дз\bin\Debug\фигуры и наследование дз.pdb
+C:\Users\User\source\repos\фигуры и наследование дз\фигуры и наследование дз\obj\Debug\фигуры и наследование дз.exe
+C:\Users\User\source\repos\фигуры и наследование дз\фигуры и наследование дз\obj\Debug\фигуры и наследование дз.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\делегаты простая трена\делегаты простая трена\bin\Debug\делегаты простая трена.exe.config
+C:\Users\User\source\repos\делегаты простая трена\делегаты простая трена\bin\Debug\делегаты простая трена.exe
+C:\Users\User\source\repos\делегаты простая трена\делегаты простая трена\bin\Debug\делегаты простая трена.pdb
+C:\Users\User\source\repos\делегаты простая трена\делегаты простая трена\obj\Debug\делегаты простая трена.csprojAssemblyReference.cache
+C:\Users\User\source\repos\делегаты простая трена\делегаты простая трена\obj\Debug\делегаты простая трена.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\делегаты простая трена\делегаты простая трена\obj\Debug\делегаты простая трена.exe
+C:\Users\User\source\repos\делегаты простая трена\делегаты простая трена\obj\Debug\делегаты простая трена.pdb

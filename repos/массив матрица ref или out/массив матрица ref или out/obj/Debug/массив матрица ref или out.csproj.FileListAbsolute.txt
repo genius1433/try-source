@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\массив матрица ref или out\массив матрица ref или out\bin\Debug\массив матрица ref или out.exe.config
+C:\Users\User\source\repos\массив матрица ref или out\массив матрица ref или out\bin\Debug\массив матрица ref или out.exe
+C:\Users\User\source\repos\массив матрица ref или out\массив матрица ref или out\bin\Debug\массив матрица ref или out.pdb
+C:\Users\User\source\repos\массив матрица ref или out\массив матрица ref или out\obj\Debug\массив матрица ref или out.csprojAssemblyReference.cache
+C:\Users\User\source\repos\массив матрица ref или out\массив матрица ref или out\obj\Debug\массив матрица ref или out.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\массив матрица ref или out\массив матрица ref или out\obj\Debug\массив матрица ref или out.exe
+C:\Users\User\source\repos\массив матрица ref или out\массив матрица ref или out\obj\Debug\массив матрица ref или out.pdb

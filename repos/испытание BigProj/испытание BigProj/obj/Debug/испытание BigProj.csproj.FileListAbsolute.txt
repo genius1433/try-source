@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\испытание BigProj\испытание BigProj\bin\Debug\испытание BigProj.exe.config
+C:\Users\User\source\repos\испытание BigProj\испытание BigProj\bin\Debug\испытание BigProj.exe
+C:\Users\User\source\repos\испытание BigProj\испытание BigProj\bin\Debug\испытание BigProj.pdb
+C:\Users\User\source\repos\испытание BigProj\испытание BigProj\obj\Debug\испытание BigProj.csprojAssemblyReference.cache
+C:\Users\User\source\repos\испытание BigProj\испытание BigProj\obj\Debug\испытание BigProj.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\испытание BigProj\испытание BigProj\obj\Debug\испытание BigProj.exe
+C:\Users\User\source\repos\испытание BigProj\испытание BigProj\obj\Debug\испытание BigProj.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\еще рекурсия\еще рекурсия\bin\Debug\еще рекурсия.exe.config
+C:\Users\User\source\repos\еще рекурсия\еще рекурсия\bin\Debug\еще рекурсия.exe
+C:\Users\User\source\repos\еще рекурсия\еще рекурсия\bin\Debug\еще рекурсия.pdb
+C:\Users\User\source\repos\еще рекурсия\еще рекурсия\obj\Debug\еще рекурсия.csprojAssemblyReference.cache
+C:\Users\User\source\repos\еще рекурсия\еще рекурсия\obj\Debug\еще рекурсия.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\еще рекурсия\еще рекурсия\obj\Debug\еще рекурсия.exe
+C:\Users\User\source\repos\еще рекурсия\еще рекурсия\obj\Debug\еще рекурсия.pdb

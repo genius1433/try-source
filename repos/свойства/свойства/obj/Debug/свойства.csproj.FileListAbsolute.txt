@@ -1,0 +1,7 @@
+c:\users\user\source\repos\свойства\свойства\bin\Debug\свойства.exe.config
+c:\users\user\source\repos\свойства\свойства\bin\Debug\свойства.exe
+c:\users\user\source\repos\свойства\свойства\bin\Debug\свойства.pdb
+c:\users\user\source\repos\свойства\свойства\obj\Debug\свойства.csprojAssemblyReference.cache
+c:\users\user\source\repos\свойства\свойства\obj\Debug\свойства.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\свойства\свойства\obj\Debug\свойства.exe
+c:\users\user\source\repos\свойства\свойства\obj\Debug\свойства.pdb

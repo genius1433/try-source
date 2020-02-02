@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+C:\Users\user\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+C:\Users\user\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+C:\Users\user\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+C:\Users\user\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.pdb

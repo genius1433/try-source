@@ -1,0 +1,12 @@
+﻿  Переводы СС с++.cpp
+C:\Users\User\source\repos\Переводы СС с++\Переводы СС с++.cpp(14,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Переводы СС с++\Переводы СС с++.cpp(18,28): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Переводы СС с++\Переводы СС с++.cpp(22,28): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Переводы СС с++\Переводы СС с++.cpp(26,28): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Переводы СС с++\Переводы СС с++.cpp(30,28): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Переводы СС с++\Переводы СС с++.cpp(34,28): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Переводы СС с++\Переводы СС с++.cpp(38,28): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Переводы СС с++\Переводы СС с++.cpp(40,32): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Переводы СС с++\Переводы СС с++.cpp(48,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Переводы СС с++\Переводы СС с++.cpp(48,20): warning C4018: C:\Users\User\source\repos\Переводы СС с++\Переводы СС с++.cpp(61) : error C4700: использована неинициализированная локальная переменная "a"
+D:\visual studio community 2019 c++\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" завершилась с кодом 2.

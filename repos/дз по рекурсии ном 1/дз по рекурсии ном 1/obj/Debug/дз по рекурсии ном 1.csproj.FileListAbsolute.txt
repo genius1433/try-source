@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\дз по рекурсии ном 1\дз по рекурсии ном 1\bin\Debug\дз по рекурсии ном 1.exe.config
+C:\Users\User\source\repos\дз по рекурсии ном 1\дз по рекурсии ном 1\bin\Debug\дз по рекурсии ном 1.exe
+C:\Users\User\source\repos\дз по рекурсии ном 1\дз по рекурсии ном 1\bin\Debug\дз по рекурсии ном 1.pdb
+C:\Users\User\source\repos\дз по рекурсии ном 1\дз по рекурсии ном 1\obj\Debug\дз по рекурсии ном 1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\дз по рекурсии ном 1\дз по рекурсии ном 1\obj\Debug\дз по рекурсии ном 1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\дз по рекурсии ном 1\дз по рекурсии ном 1\obj\Debug\дз по рекурсии ном 1.exe
+C:\Users\User\source\repos\дз по рекурсии ном 1\дз по рекурсии ном 1\obj\Debug\дз по рекурсии ном 1.pdb

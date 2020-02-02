@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\join\join\bin\Debug\join.exe.config
+C:\Users\User\source\repos\join\join\bin\Debug\join.exe
+C:\Users\User\source\repos\join\join\bin\Debug\join.pdb
+C:\Users\User\source\repos\join\join\obj\Debug\join.csprojAssemblyReference.cache
+C:\Users\User\source\repos\join\join\obj\Debug\join.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\join\join\obj\Debug\join.exe
+C:\Users\User\source\repos\join\join\obj\Debug\join.pdb

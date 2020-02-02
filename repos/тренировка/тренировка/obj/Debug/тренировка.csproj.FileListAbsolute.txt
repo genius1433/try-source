@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\тренировка\тренировка\bin\Debug\тренировка.exe.config
+C:\Users\user\source\repos\тренировка\тренировка\bin\Debug\тренировка.exe
+C:\Users\user\source\repos\тренировка\тренировка\bin\Debug\тренировка.pdb
+C:\Users\user\source\repos\тренировка\тренировка\obj\Debug\тренировка.csprojAssemblyReference.cache
+C:\Users\user\source\repos\тренировка\тренировка\obj\Debug\тренировка.exe
+C:\Users\user\source\repos\тренировка\тренировка\obj\Debug\тренировка.pdb

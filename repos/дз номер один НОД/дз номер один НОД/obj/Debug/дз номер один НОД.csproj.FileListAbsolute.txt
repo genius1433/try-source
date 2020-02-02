@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\дз номер один НОД\дз номер один НОД\bin\Debug\дз номер один НОД.exe.config
+C:\Users\User\source\repos\дз номер один НОД\дз номер один НОД\bin\Debug\дз номер один НОД.exe
+C:\Users\User\source\repos\дз номер один НОД\дз номер один НОД\bin\Debug\дз номер один НОД.pdb
+C:\Users\User\source\repos\дз номер один НОД\дз номер один НОД\obj\Debug\дз номер один НОД.csprojAssemblyReference.cache
+C:\Users\User\source\repos\дз номер один НОД\дз номер один НОД\obj\Debug\дз номер один НОД.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\дз номер один НОД\дз номер один НОД\obj\Debug\дз номер один НОД.exe
+C:\Users\User\source\repos\дз номер один НОД\дз номер один НОД\obj\Debug\дз номер один НОД.pdb

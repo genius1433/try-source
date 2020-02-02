@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\доп возможности ООП\доп возможности ООП\bin\Debug\доп возможности ООП.exe.config
+C:\Users\User\source\repos\доп возможности ООП\доп возможности ООП\bin\Debug\доп возможности ООП.exe
+C:\Users\User\source\repos\доп возможности ООП\доп возможности ООП\bin\Debug\доп возможности ООП.pdb
+C:\Users\User\source\repos\доп возможности ООП\доп возможности ООП\obj\Debug\доп возможности ООП.csprojAssemblyReference.cache
+C:\Users\User\source\repos\доп возможности ООП\доп возможности ООП\obj\Debug\доп возможности ООП.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\доп возможности ООП\доп возможности ООП\obj\Debug\доп возможности ООП.exe
+C:\Users\User\source\repos\доп возможности ООП\доп возможности ООП\obj\Debug\доп возможности ООП.pdb

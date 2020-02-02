@@ -1,0 +1,7 @@
+c:\users\user\source\repos\интересные тапочки\интересные тапочки\bin\Debug\интересные тапочки.exe.config
+c:\users\user\source\repos\интересные тапочки\интересные тапочки\bin\Debug\интересные тапочки.exe
+c:\users\user\source\repos\интересные тапочки\интересные тапочки\bin\Debug\интересные тапочки.pdb
+c:\users\user\source\repos\интересные тапочки\интересные тапочки\obj\Debug\интересные тапочки.csprojAssemblyReference.cache
+c:\users\user\source\repos\интересные тапочки\интересные тапочки\obj\Debug\интересные тапочки.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\интересные тапочки\интересные тапочки\obj\Debug\интересные тапочки.exe
+c:\users\user\source\repos\интересные тапочки\интересные тапочки\obj\Debug\интересные тапочки.pdb

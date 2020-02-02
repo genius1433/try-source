@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\scramblies from codewars\scramblies from codewars\bin\Debug\scramblies from codewars.exe.config
+C:\Users\User\source\repos\scramblies from codewars\scramblies from codewars\bin\Debug\scramblies from codewars.exe
+C:\Users\User\source\repos\scramblies from codewars\scramblies from codewars\bin\Debug\scramblies from codewars.pdb
+C:\Users\User\source\repos\scramblies from codewars\scramblies from codewars\obj\Debug\scramblies from codewars.csprojAssemblyReference.cache
+C:\Users\User\source\repos\scramblies from codewars\scramblies from codewars\obj\Debug\scramblies from codewars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\scramblies from codewars\scramblies from codewars\obj\Debug\scramblies from codewars.exe
+C:\Users\User\source\repos\scramblies from codewars\scramblies from codewars\obj\Debug\scramblies from codewars.pdb

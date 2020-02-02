@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\массивы\массивы\bin\Debug\массивы.exe.config
+C:\Users\User\source\repos\массивы\массивы\bin\Debug\массивы.exe
+C:\Users\User\source\repos\массивы\массивы\bin\Debug\массивы.pdb
+C:\Users\User\source\repos\массивы\массивы\obj\Debug\массивы.csprojAssemblyReference.cache
+C:\Users\User\source\repos\массивы\массивы\obj\Debug\массивы.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\массивы\массивы\obj\Debug\массивы.exe
+C:\Users\User\source\repos\массивы\массивы\obj\Debug\массивы.pdb

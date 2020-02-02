@@ -1,0 +1,7 @@
+c:\users\user\source\repos\дз ном 2 по массивам циферки\дз ном 2 по массивам циферки\bin\Debug\дз ном 2 по массивам циферки.exe.config
+c:\users\user\source\repos\дз ном 2 по массивам циферки\дз ном 2 по массивам циферки\bin\Debug\дз ном 2 по массивам циферки.exe
+c:\users\user\source\repos\дз ном 2 по массивам циферки\дз ном 2 по массивам циферки\bin\Debug\дз ном 2 по массивам циферки.pdb
+c:\users\user\source\repos\дз ном 2 по массивам циферки\дз ном 2 по массивам циферки\obj\Debug\дз ном 2 по массивам циферки.csprojAssemblyReference.cache
+c:\users\user\source\repos\дз ном 2 по массивам циферки\дз ном 2 по массивам циферки\obj\Debug\дз ном 2 по массивам циферки.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\дз ном 2 по массивам циферки\дз ном 2 по массивам циферки\obj\Debug\дз ном 2 по массивам циферки.exe
+c:\users\user\source\repos\дз ном 2 по массивам циферки\дз ном 2 по массивам циферки\obj\Debug\дз ном 2 по массивам циферки.pdb

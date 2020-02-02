@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\перегрузка ТуСтринг\перегрузка ТуСтринг\bin\Debug\перегрузка ТуСтринг.exe.config
+C:\Users\User\source\repos\перегрузка ТуСтринг\перегрузка ТуСтринг\bin\Debug\перегрузка ТуСтринг.exe
+C:\Users\User\source\repos\перегрузка ТуСтринг\перегрузка ТуСтринг\bin\Debug\перегрузка ТуСтринг.pdb
+C:\Users\User\source\repos\перегрузка ТуСтринг\перегрузка ТуСтринг\obj\Debug\перегрузка ТуСтринг.csprojAssemblyReference.cache
+C:\Users\User\source\repos\перегрузка ТуСтринг\перегрузка ТуСтринг\obj\Debug\перегрузка ТуСтринг.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\перегрузка ТуСтринг\перегрузка ТуСтринг\obj\Debug\перегрузка ТуСтринг.exe
+C:\Users\User\source\repos\перегрузка ТуСтринг\перегрузка ТуСтринг\obj\Debug\перегрузка ТуСтринг.pdb

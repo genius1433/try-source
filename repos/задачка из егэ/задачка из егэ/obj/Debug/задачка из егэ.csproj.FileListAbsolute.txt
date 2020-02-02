@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\задачка из егэ\задачка из егэ\bin\Debug\задачка из егэ.exe.config
+C:\Users\User\source\repos\задачка из егэ\задачка из егэ\bin\Debug\задачка из егэ.exe
+C:\Users\User\source\repos\задачка из егэ\задачка из егэ\bin\Debug\задачка из егэ.pdb
+C:\Users\User\source\repos\задачка из егэ\задачка из егэ\obj\Debug\задачка из егэ.csprojAssemblyReference.cache
+C:\Users\User\source\repos\задачка из егэ\задачка из егэ\obj\Debug\задачка из егэ.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\задачка из егэ\задачка из егэ\obj\Debug\задачка из егэ.exe
+C:\Users\User\source\repos\задачка из егэ\задачка из егэ\obj\Debug\задачка из егэ.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\классы\классы\bin\Debug\классы.exe.config
+C:\Users\User\source\repos\классы\классы\bin\Debug\классы.exe
+C:\Users\User\source\repos\классы\классы\bin\Debug\классы.pdb
+C:\Users\User\source\repos\классы\классы\obj\Debug\классы.csprojAssemblyReference.cache
+C:\Users\User\source\repos\классы\классы\obj\Debug\классы.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\классы\классы\obj\Debug\классы.exe
+C:\Users\User\source\repos\классы\классы\obj\Debug\классы.pdb

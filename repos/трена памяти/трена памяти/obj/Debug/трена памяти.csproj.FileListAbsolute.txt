@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\трена памяти\трена памяти\bin\Debug\трена памяти.exe.config
+C:\Users\User\source\repos\трена памяти\трена памяти\bin\Debug\трена памяти.exe
+C:\Users\User\source\repos\трена памяти\трена памяти\bin\Debug\трена памяти.pdb
+C:\Users\User\source\repos\трена памяти\трена памяти\obj\Debug\трена памяти.csprojAssemblyReference.cache
+C:\Users\User\source\repos\трена памяти\трена памяти\obj\Debug\трена памяти.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\трена памяти\трена памяти\obj\Debug\трена памяти.exe
+C:\Users\User\source\repos\трена памяти\трена памяти\obj\Debug\трена памяти.pdb

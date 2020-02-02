@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\трена форм виндовс\трена форм виндовс\bin\Debug\трена форм виндовс.exe.config
+C:\Users\User\source\repos\трена форм виндовс\трена форм виндовс\bin\Debug\трена форм виндовс.exe
+C:\Users\User\source\repos\трена форм виндовс\трена форм виндовс\bin\Debug\трена форм виндовс.pdb
+C:\Users\User\source\repos\трена форм виндовс\трена форм виндовс\obj\Debug\трена форм виндовс.csprojAssemblyReference.cache
+C:\Users\User\source\repos\трена форм виндовс\трена форм виндовс\obj\Debug\трена_форм_виндовс.Form1.resources
+C:\Users\User\source\repos\трена форм виндовс\трена форм виндовс\obj\Debug\трена_форм_виндовс.Properties.Resources.resources
+C:\Users\User\source\repos\трена форм виндовс\трена форм виндовс\obj\Debug\трена форм виндовс.csproj.GenerateResource.cache
+C:\Users\User\source\repos\трена форм виндовс\трена форм виндовс\obj\Debug\трена форм виндовс.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\трена форм виндовс\трена форм виндовс\obj\Debug\трена форм виндовс.exe
+C:\Users\User\source\repos\трена форм виндовс\трена форм виндовс\obj\Debug\трена форм виндовс.pdb

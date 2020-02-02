@@ -1,0 +1,7 @@
+c:\users\user\source\repos\сенокосилки\сенокосилки\bin\Debug\сенокосилки.exe.config
+c:\users\user\source\repos\сенокосилки\сенокосилки\bin\Debug\сенокосилки.exe
+c:\users\user\source\repos\сенокосилки\сенокосилки\bin\Debug\сенокосилки.pdb
+c:\users\user\source\repos\сенокосилки\сенокосилки\obj\Debug\сенокосилки.csprojAssemblyReference.cache
+c:\users\user\source\repos\сенокосилки\сенокосилки\obj\Debug\сенокосилки.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\сенокосилки\сенокосилки\obj\Debug\сенокосилки.exe
+c:\users\user\source\repos\сенокосилки\сенокосилки\obj\Debug\сенокосилки.pdb

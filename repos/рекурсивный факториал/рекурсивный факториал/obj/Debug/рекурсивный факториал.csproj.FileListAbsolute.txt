@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\рекурсивный факториал\рекурсивный факториал\bin\Debug\рекурсивный факториал.exe.config
+C:\Users\User\source\repos\рекурсивный факториал\рекурсивный факториал\bin\Debug\рекурсивный факториал.exe
+C:\Users\User\source\repos\рекурсивный факториал\рекурсивный факториал\bin\Debug\рекурсивный факториал.pdb
+C:\Users\User\source\repos\рекурсивный факториал\рекурсивный факториал\obj\Debug\рекурсивный факториал.csprojAssemblyReference.cache
+C:\Users\User\source\repos\рекурсивный факториал\рекурсивный факториал\obj\Debug\рекурсивный факториал.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\рекурсивный факториал\рекурсивный факториал\obj\Debug\рекурсивный факториал.exe
+C:\Users\User\source\repos\рекурсивный факториал\рекурсивный факториал\obj\Debug\рекурсивный факториал.pdb

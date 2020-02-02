@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\калкьулятор дробей класс\калкьулятор дробей класс\bin\Debug\калкьулятор дробей класс.exe.config
+C:\Users\User\source\repos\калкьулятор дробей класс\калкьулятор дробей класс\bin\Debug\калкьулятор дробей класс.exe
+C:\Users\User\source\repos\калкьулятор дробей класс\калкьулятор дробей класс\bin\Debug\калкьулятор дробей класс.pdb
+C:\Users\User\source\repos\калкьулятор дробей класс\калкьулятор дробей класс\obj\Debug\калкьулятор дробей класс.csprojAssemblyReference.cache
+C:\Users\User\source\repos\калкьулятор дробей класс\калкьулятор дробей класс\obj\Debug\калкьулятор дробей класс.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\калкьулятор дробей класс\калкьулятор дробей класс\obj\Debug\калкьулятор дробей класс.exe
+C:\Users\User\source\repos\калкьулятор дробей класс\калкьулятор дробей класс\obj\Debug\калкьулятор дробей класс.pdb

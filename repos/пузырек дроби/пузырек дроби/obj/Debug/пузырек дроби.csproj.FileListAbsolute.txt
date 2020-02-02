@@ -1,0 +1,7 @@
+c:\users\user\source\repos\пузырек дроби\пузырек дроби\bin\Debug\пузырек дроби.exe.config
+c:\users\user\source\repos\пузырек дроби\пузырек дроби\bin\Debug\пузырек дроби.exe
+c:\users\user\source\repos\пузырек дроби\пузырек дроби\bin\Debug\пузырек дроби.pdb
+c:\users\user\source\repos\пузырек дроби\пузырек дроби\obj\Debug\пузырек дроби.csprojAssemblyReference.cache
+c:\users\user\source\repos\пузырек дроби\пузырек дроби\obj\Debug\пузырек дроби.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\пузырек дроби\пузырек дроби\obj\Debug\пузырек дроби.exe
+c:\users\user\source\repos\пузырек дроби\пузырек дроби\obj\Debug\пузырек дроби.pdb

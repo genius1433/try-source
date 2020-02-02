@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\урокehjr\урокehjr\bin\Debug\урокehjr.exe.config
+C:\Users\User\source\repos\урокehjr\урокehjr\bin\Debug\урокehjr.exe
+C:\Users\User\source\repos\урокehjr\урокehjr\bin\Debug\урокehjr.pdb
+C:\Users\User\source\repos\урокehjr\урокehjr\obj\Debug\урокehjr.csprojAssemblyReference.cache
+C:\Users\User\source\repos\урокehjr\урокehjr\obj\Debug\урокehjr.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\урокehjr\урокehjr\obj\Debug\урокehjr.exe
+C:\Users\User\source\repos\урокehjr\урокehjr\obj\Debug\урокehjr.pdb

@@ -1,0 +1,7 @@
+c:\users\user\source\repos\Легкая задача - считалочка\Легкая задача - считалочка\bin\Debug\Легкая задача - считалочка.exe.config
+c:\users\user\source\repos\Легкая задача - считалочка\Легкая задача - считалочка\bin\Debug\Легкая задача - считалочка.exe
+c:\users\user\source\repos\Легкая задача - считалочка\Легкая задача - считалочка\bin\Debug\Легкая задача - считалочка.pdb
+c:\users\user\source\repos\Легкая задача - считалочка\Легкая задача - считалочка\obj\Debug\Легкая задача - считалочка.csprojAssemblyReference.cache
+c:\users\user\source\repos\Легкая задача - считалочка\Легкая задача - считалочка\obj\Debug\Легкая задача - считалочка.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Легкая задача - считалочка\Легкая задача - считалочка\obj\Debug\Легкая задача - считалочка.exe
+c:\users\user\source\repos\Легкая задача - считалочка\Легкая задача - считалочка\obj\Debug\Легкая задача - считалочка.pdb

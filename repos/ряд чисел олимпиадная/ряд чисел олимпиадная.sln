@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ряд чисел олимпиадная", "ряд чисел олимпиадная\ряд чисел олимпиадная.csproj", "{61E16BA4-886C-49A7-8EF4-C6579445077D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E16BA4-886C-49A7-8EF4-C6579445077D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E16BA4-886C-49A7-8EF4-C6579445077D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E16BA4-886C-49A7-8EF4-C6579445077D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E16BA4-886C-49A7-8EF4-C6579445077D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1814B0F7-8E93-4770-BF64-8D98B263F8D0}
+	EndGlobalSection
+EndGlobal

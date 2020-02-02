@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\greed is good проверка из кодварса\greed is good проверка из кодварса\bin\Debug\greed is good проверка из кодварса.exe.config
+C:\Users\User\source\repos\greed is good проверка из кодварса\greed is good проверка из кодварса\bin\Debug\greed is good проверка из кодварса.exe
+C:\Users\User\source\repos\greed is good проверка из кодварса\greed is good проверка из кодварса\bin\Debug\greed is good проверка из кодварса.pdb
+C:\Users\User\source\repos\greed is good проверка из кодварса\greed is good проверка из кодварса\obj\Debug\greed is good проверка из кодварса.csprojAssemblyReference.cache
+C:\Users\User\source\repos\greed is good проверка из кодварса\greed is good проверка из кодварса\obj\Debug\greed is good проверка из кодварса.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\greed is good проверка из кодварса\greed is good проверка из кодварса\obj\Debug\greed is good проверка из кодварса.exe
+C:\Users\User\source\repos\greed is good проверка из кодварса\greed is good проверка из кодварса\obj\Debug\greed is good проверка из кодварса.pdb

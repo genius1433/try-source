@@ -1,0 +1,35 @@
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\bin\Debug\netcoreapp3.0\1 Веб по учебнику.exe
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\bin\Debug\netcoreapp3.0\1 Веб по учебнику.deps.json
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\bin\Debug\netcoreapp3.0\1 Веб по учебнику.runtimeconfig.json
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\bin\Debug\netcoreapp3.0\1 Веб по учебнику.runtimeconfig.dev.json
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\bin\Debug\netcoreapp3.0\1 Веб по учебнику.dll
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\bin\Debug\netcoreapp3.0\1 Веб по учебнику.pdb
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\bin\Debug\netcoreapp3.0\1 Веб по учебнику.Views.dll
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\bin\Debug\netcoreapp3.0\1 Веб по учебнику.Views.pdb
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.csprojAssemblyReference.cache
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\staticwebassets\1 Веб по учебнику.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\staticwebassets\1 Веб по учебнику.StaticWebAssets.xml
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.AssemblyInfo.cs
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.TagHelpers.input.cache
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.TagHelpers.output.cache
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.RazorCoreGenerate.cache
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.RazorTargetAssemblyInfo.cs
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.Views.pdb
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.dll
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.pdb
+C:\Users\user\source\repos\1 Веб по учебнику\1 Веб по учебнику\obj\Debug\netcoreapp3.0\1 Веб по учебнику.csproj.CopyComplete

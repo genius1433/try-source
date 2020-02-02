@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\дз ном 4 с массивом с отр числами\дз ном 4 с массивом с отр числами\bin\Debug\дз ном 4 с массивом с отр числами.exe.config
+C:\Users\User\source\repos\дз ном 4 с массивом с отр числами\дз ном 4 с массивом с отр числами\bin\Debug\дз ном 4 с массивом с отр числами.exe
+C:\Users\User\source\repos\дз ном 4 с массивом с отр числами\дз ном 4 с массивом с отр числами\bin\Debug\дз ном 4 с массивом с отр числами.pdb
+C:\Users\User\source\repos\дз ном 4 с массивом с отр числами\дз ном 4 с массивом с отр числами\obj\Debug\дз ном 4 с массивом с отр числами.csprojAssemblyReference.cache
+C:\Users\User\source\repos\дз ном 4 с массивом с отр числами\дз ном 4 с массивом с отр числами\obj\Debug\дз ном 4 с массивом с отр числами.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\дз ном 4 с массивом с отр числами\дз ном 4 с массивом с отр числами\obj\Debug\дз ном 4 с массивом с отр числами.exe
+C:\Users\User\source\repos\дз ном 4 с массивом с отр числами\дз ном 4 с массивом с отр числами\obj\Debug\дз ном 4 с массивом с отр числами.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\группировка ОПГ\группировка ОПГ\bin\Debug\группировка ОПГ.exe.config
+C:\Users\User\source\repos\группировка ОПГ\группировка ОПГ\bin\Debug\группировка ОПГ.exe
+C:\Users\User\source\repos\группировка ОПГ\группировка ОПГ\bin\Debug\группировка ОПГ.pdb
+C:\Users\User\source\repos\группировка ОПГ\группировка ОПГ\obj\Debug\группировка ОПГ.csprojAssemblyReference.cache
+C:\Users\User\source\repos\группировка ОПГ\группировка ОПГ\obj\Debug\группировка ОПГ.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\группировка ОПГ\группировка ОПГ\obj\Debug\группировка ОПГ.exe
+C:\Users\User\source\repos\группировка ОПГ\группировка ОПГ\obj\Debug\группировка ОПГ.pdb

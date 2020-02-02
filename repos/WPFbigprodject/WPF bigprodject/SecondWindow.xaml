@@ -1,0 +1,47 @@
+﻿<Window x:Class="WPF_bigprodject.SecondWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_bigprodject"
+        mc:Ignorable="d"
+        Title="SecondWindow" Height="591.184" Width="1980">
+    <Grid Background="AntiqueWhite" Margin="0,0,2,0">
+        <Button x:Name="ExitToFirstWindow"  Width="38" Content="Exit" Margin="242,0,0,525" Click="Exit" Background="Red" HorizontalAlignment="Center" FontSize="18" RenderTransformOrigin="0.434,-0.014" Grid.Column="2"/>
+        <TextBox x:Name="BoxToRead" Width="1537" Height="517" VerticalAlignment="Top" Margin="414,33,0,0" TextChanged="BoxToRead_TextChanged" HorizontalAlignment="Center" RenderTransformOrigin="0.497,0.53" IsReadOnly="True" Grid.ColumnSpan="3" FontSize="16"/>
+        <Grid HorizontalAlignment="Left" Height="550" VerticalAlignment="Top" Width="414" Grid.ColumnSpan="2">
+
+            <Label Content="Print cars" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="144" Height="28"/>
+            <Button Content="Enter" HorizontalAlignment="Left" Margin="314,5,0,0" VerticalAlignment="Top" Width="75" Height="28" Click="EnterInPrintCars"/>
+            <Label Content="Add car or cars" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top" Width="144"/>
+            <TextBox HorizontalAlignment="Left" Height="23" Margin="10,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="379" TextChanged="GettingInformationFromAddingCarOrCars"/>
+            <Button Content="Enter" HorizontalAlignment="Left" Margin="314,75,0,0" VerticalAlignment="Top" Width="75" Height="28" Click="EnterInAdding"/>
+            <Button Content="Enter" HorizontalAlignment="Left" Margin="314,145,0,0" VerticalAlignment="Top" Width="75" Height="28" Click="EnterInSelling"/>
+            <Label Content="Sell car" HorizontalAlignment="Left" Margin="10,147,0,0" VerticalAlignment="Top" Width="144"/>
+            <TextBox x:Name="SellingBox" HorizontalAlignment="Left" Height="23" Margin="10,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="379" TextChanged="GettingInformationFromSellingCar"/>
+            <Button Content="Get List Of cars" HorizontalAlignment="Left" Margin="82,510,0,0" VerticalAlignment="Top" Width="235" Click="PrintListOfCars" Height="30"/>
+            <Button Content="Enter" HorizontalAlignment="Left" Margin="314,220,0,0" VerticalAlignment="Top" Width="75" Height="28" Click="EnterInCalculateRevenue"/>
+            <TextBox HorizontalAlignment="Left" Height="23" Margin="10,253,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="379" TextChanged="GettingInformationFromCalculateRevenue"/>
+            <Button Content="Enter" HorizontalAlignment="Left" Margin="314,315,0,0" VerticalAlignment="Top" Width="75" Height="28" Click="EnterNewUser"/>
+            <Label Content="AddNewUserLPR" HorizontalAlignment="Left" Margin="10,317,0,0" VerticalAlignment="Top" Width="113"/>
+            <!--<TextBox HorizontalAlignment="Left" Height="23" Margin="10,327,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="379" TextChanged="GettingInformationFromAddNewUserLPR"/>-->
+            <TextBox HorizontalAlignment="Left" Height="23" Margin="10,482,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="379" TextChanged="GettingInformationFromSearcher"/>
+            <Button Content="Enter" HorizontalAlignment="Left" Margin="314,449,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.72,0.5" Height="28" Click="EnterInSearch"/>
+            <RadioButton Content="Model and Transmission Type" HorizontalAlignment="Left" Margin="10,456,0,0" VerticalAlignment="Top" GroupName="Searcher" Checked="ModelAndTransmissionTypeSearchButton"/>
+            <RadioButton Content="Number of Seats Min - Max" HorizontalAlignment="Left" Margin="10,416,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.473,-0.8" GroupName="Searcher" Checked="SeatsMunMaxSearchButton"/>
+            <RadioButton Content="Colour" HorizontalAlignment="Left" Margin="10,396,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.685,-1.133" GroupName="Searcher" Checked="ColourSearchButton"/>
+            <RadioButton Content="Vans With User-Specified Type" HorizontalAlignment="Left" Margin="10,436,0,0" VerticalAlignment="Top" GroupName="Searcher" Checked="VansSizeSearchButton"/>
+            <Label Content="Search with options" HorizontalAlignment="Left" Margin="10,365,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.132,0.077"/>
+        </Grid>
+        <Button Content="BackToLog" HorizontalAlignment="Left" VerticalAlignment="Top" Width="77" Margin="168,0,0,0" Height="33" Background="Aqua" Click="ButtonReturnToLogin" RenderTransformOrigin="3.045,0.682" Grid.Column="2"/>
+        <Label Content="Calculate revenue" HorizontalAlignment="Left" Margin="10,230,0,0" VerticalAlignment="Top" Width="140" RenderTransformOrigin="0.446,0.415" Grid.ColumnSpan="2"/>
+        <Button Content="Clear" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="414,5,0,0" Height="30" Click="ClearButton" Grid.ColumnSpan="2"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="1015*"/>
+            <ColumnDefinition Width="172*"/>
+            <ColumnDefinition Width="24*"/>
+        </Grid.ColumnDefinitions>
+
+    </Grid>
+</Window>

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\анонимные делегаты трена\анонимные делегаты трена\bin\Debug\анонимные делегаты трена.exe.config
+C:\Users\User\source\repos\анонимные делегаты трена\анонимные делегаты трена\bin\Debug\анонимные делегаты трена.exe
+C:\Users\User\source\repos\анонимные делегаты трена\анонимные делегаты трена\bin\Debug\анонимные делегаты трена.pdb
+C:\Users\User\source\repos\анонимные делегаты трена\анонимные делегаты трена\obj\Debug\анонимные делегаты трена.csprojAssemblyReference.cache
+C:\Users\User\source\repos\анонимные делегаты трена\анонимные делегаты трена\obj\Debug\анонимные делегаты трена.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\анонимные делегаты трена\анонимные делегаты трена\obj\Debug\анонимные делегаты трена.exe
+C:\Users\User\source\repos\анонимные делегаты трена\анонимные делегаты трена\obj\Debug\анонимные делегаты трена.pdb

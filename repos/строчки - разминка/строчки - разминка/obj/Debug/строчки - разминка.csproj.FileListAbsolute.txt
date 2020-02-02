@@ -1,0 +1,7 @@
+c:\users\user\source\repos\строчки - разминка\строчки - разминка\bin\Debug\строчки - разминка.exe.config
+c:\users\user\source\repos\строчки - разминка\строчки - разминка\bin\Debug\строчки - разминка.exe
+c:\users\user\source\repos\строчки - разминка\строчки - разминка\bin\Debug\строчки - разминка.pdb
+c:\users\user\source\repos\строчки - разминка\строчки - разминка\obj\Debug\строчки - разминка.csprojAssemblyReference.cache
+c:\users\user\source\repos\строчки - разминка\строчки - разминка\obj\Debug\строчки - разминка.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\строчки - разминка\строчки - разминка\obj\Debug\строчки - разминка.exe
+c:\users\user\source\repos\строчки - разминка\строчки - разминка\obj\Debug\строчки - разминка.pdb

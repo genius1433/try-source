@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Считалка олимпиданая\Считалка олимпиданая\bin\Debug\Считалка олимпиданая.exe.config
+C:\Users\user\source\repos\Считалка олимпиданая\Считалка олимпиданая\bin\Debug\Считалка олимпиданая.exe
+C:\Users\user\source\repos\Считалка олимпиданая\Считалка олимпиданая\bin\Debug\Считалка олимпиданая.pdb
+C:\Users\user\source\repos\Считалка олимпиданая\Считалка олимпиданая\obj\Debug\Считалка олимпиданая.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Считалка олимпиданая\Считалка олимпиданая\obj\Debug\Считалка олимпиданая.exe
+C:\Users\user\source\repos\Считалка олимпиданая\Считалка олимпиданая\obj\Debug\Считалка олимпиданая.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ряд чисел олимпиадная\ряд чисел олимпиадная\bin\Debug\ряд чисел олимпиадная.exe.config
+C:\Users\user\source\repos\ряд чисел олимпиадная\ряд чисел олимпиадная\bin\Debug\ряд чисел олимпиадная.exe
+C:\Users\user\source\repos\ряд чисел олимпиадная\ряд чисел олимпиадная\bin\Debug\ряд чисел олимпиадная.pdb
+C:\Users\user\source\repos\ряд чисел олимпиадная\ряд чисел олимпиадная\obj\Debug\ряд чисел олимпиадная.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ряд чисел олимпиадная\ряд чисел олимпиадная\obj\Debug\ряд чисел олимпиадная.exe
+C:\Users\user\source\repos\ряд чисел олимпиадная\ряд чисел олимпиадная\obj\Debug\ряд чисел олимпиадная.pdb

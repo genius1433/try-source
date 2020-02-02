@@ -1,0 +1,7 @@
+c:\users\user\source\repos\пузырек\пузырек\bin\Debug\пузырек.exe.config
+c:\users\user\source\repos\пузырек\пузырек\bin\Debug\пузырек.exe
+c:\users\user\source\repos\пузырек\пузырек\bin\Debug\пузырек.pdb
+c:\users\user\source\repos\пузырек\пузырек\obj\Debug\пузырек.csprojAssemblyReference.cache
+c:\users\user\source\repos\пузырек\пузырек\obj\Debug\пузырек.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\пузырек\пузырек\obj\Debug\пузырек.exe
+c:\users\user\source\repos\пузырек\пузырек\obj\Debug\пузырек.pdb

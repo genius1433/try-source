@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\сдвиг влево\сдвиг влево\bin\Debug\сдвиг влево.exe.config
+C:\Users\User\source\repos\сдвиг влево\сдвиг влево\bin\Debug\сдвиг влево.exe
+C:\Users\User\source\repos\сдвиг влево\сдвиг влево\bin\Debug\сдвиг влево.pdb
+C:\Users\User\source\repos\сдвиг влево\сдвиг влево\obj\Debug\сдвиг влево.csprojAssemblyReference.cache
+C:\Users\User\source\repos\сдвиг влево\сдвиг влево\obj\Debug\сдвиг влево.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\сдвиг влево\сдвиг влево\obj\Debug\сдвиг влево.exe
+C:\Users\User\source\repos\сдвиг влево\сдвиг влево\obj\Debug\сдвиг влево.pdb

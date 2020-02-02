@@ -1,0 +1,7 @@
+c:\users\user\source\repos\двойной факториал дз\двойной факториал дз\bin\Debug\двойной факториал дз.exe.config
+c:\users\user\source\repos\двойной факториал дз\двойной факториал дз\bin\Debug\двойной факториал дз.exe
+c:\users\user\source\repos\двойной факториал дз\двойной факториал дз\bin\Debug\двойной факториал дз.pdb
+c:\users\user\source\repos\двойной факториал дз\двойной факториал дз\obj\Debug\двойной факториал дз.csprojAssemblyReference.cache
+c:\users\user\source\repos\двойной факториал дз\двойной факториал дз\obj\Debug\двойной факториал дз.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\двойной факториал дз\двойной факториал дз\obj\Debug\двойной факториал дз.exe
+c:\users\user\source\repos\двойной факториал дз\двойной факториал дз\obj\Debug\двойной факториал дз.pdb

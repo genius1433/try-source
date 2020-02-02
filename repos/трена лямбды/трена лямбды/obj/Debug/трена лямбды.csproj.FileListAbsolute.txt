@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\трена лямбды\трена лямбды\bin\Debug\трена лямбды.exe.config
+C:\Users\User\source\repos\трена лямбды\трена лямбды\bin\Debug\трена лямбды.exe
+C:\Users\User\source\repos\трена лямбды\трена лямбды\bin\Debug\трена лямбды.pdb
+C:\Users\User\source\repos\трена лямбды\трена лямбды\obj\Debug\трена лямбды.csprojAssemblyReference.cache
+C:\Users\User\source\repos\трена лямбды\трена лямбды\obj\Debug\трена лямбды.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\трена лямбды\трена лямбды\obj\Debug\трена лямбды.exe
+C:\Users\User\source\repos\трена лямбды\трена лямбды\obj\Debug\трена лямбды.pdb

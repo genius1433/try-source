@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\king of delegates\king of delegates\bin\Debug\king of delegates.exe.config
+C:\Users\User\source\repos\king of delegates\king of delegates\bin\Debug\king of delegates.exe
+C:\Users\User\source\repos\king of delegates\king of delegates\bin\Debug\king of delegates.pdb
+C:\Users\User\source\repos\king of delegates\king of delegates\obj\Debug\king of delegates.csprojAssemblyReference.cache
+C:\Users\User\source\repos\king of delegates\king of delegates\obj\Debug\king of delegates.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\king of delegates\king of delegates\obj\Debug\king of delegates.exe
+C:\Users\User\source\repos\king of delegates\king of delegates\obj\Debug\king of delegates.pdb

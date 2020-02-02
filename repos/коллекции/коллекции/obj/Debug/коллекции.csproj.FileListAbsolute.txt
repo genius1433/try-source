@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\коллекции\коллекции\bin\Debug\коллекции.exe.config
+C:\Users\user\source\repos\коллекции\коллекции\bin\Debug\коллекции.exe
+C:\Users\user\source\repos\коллекции\коллекции\bin\Debug\коллекции.pdb
+C:\Users\user\source\repos\коллекции\коллекции\obj\Debug\коллекции.csprojAssemblyReference.cache
+C:\Users\user\source\repos\коллекции\коллекции\obj\Debug\коллекции.exe
+C:\Users\user\source\repos\коллекции\коллекции\obj\Debug\коллекции.pdb

@@ -1,0 +1,7 @@
+c:\users\user\source\repos\вазы с конфетами\вазы с конфетами\bin\Debug\вазы с конфетами.exe.config
+c:\users\user\source\repos\вазы с конфетами\вазы с конфетами\bin\Debug\вазы с конфетами.exe
+c:\users\user\source\repos\вазы с конфетами\вазы с конфетами\bin\Debug\вазы с конфетами.pdb
+c:\users\user\source\repos\вазы с конфетами\вазы с конфетами\obj\Debug\вазы с конфетами.csprojAssemblyReference.cache
+c:\users\user\source\repos\вазы с конфетами\вазы с конфетами\obj\Debug\вазы с конфетами.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\вазы с конфетами\вазы с конфетами\obj\Debug\вазы с конфетами.exe
+c:\users\user\source\repos\вазы с конфетами\вазы с конфетами\obj\Debug\вазы с конфетами.pdb

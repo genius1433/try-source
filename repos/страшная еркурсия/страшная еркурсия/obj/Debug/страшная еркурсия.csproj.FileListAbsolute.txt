@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\страшная еркурсия\страшная еркурсия\obj\Debug\страшная еркурсия.csprojAssemblyReference.cache
+C:\Users\User\source\repos\страшная еркурсия\страшная еркурсия\obj\Debug\страшная еркурсия.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\страшная еркурсия\страшная еркурсия\bin\Debug\страшная еркурсия.exe.config
+C:\Users\User\source\repos\страшная еркурсия\страшная еркурсия\bin\Debug\страшная еркурсия.exe
+C:\Users\User\source\repos\страшная еркурсия\страшная еркурсия\bin\Debug\страшная еркурсия.pdb
+C:\Users\User\source\repos\страшная еркурсия\страшная еркурсия\obj\Debug\страшная еркурсия.exe
+C:\Users\User\source\repos\страшная еркурсия\страшная еркурсия\obj\Debug\страшная еркурсия.pdb

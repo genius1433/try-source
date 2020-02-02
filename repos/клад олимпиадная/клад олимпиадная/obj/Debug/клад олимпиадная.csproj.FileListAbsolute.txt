@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\клад олимпиадная\клад олимпиадная\bin\Debug\клад олимпиадная.exe.config
+C:\Users\user\source\repos\клад олимпиадная\клад олимпиадная\bin\Debug\клад олимпиадная.exe
+C:\Users\user\source\repos\клад олимпиадная\клад олимпиадная\bin\Debug\клад олимпиадная.pdb
+C:\Users\user\source\repos\клад олимпиадная\клад олимпиадная\obj\Debug\клад олимпиадная.csprojAssemblyReference.cache
+C:\Users\user\source\repos\клад олимпиадная\клад олимпиадная\obj\Debug\клад олимпиадная.exe
+C:\Users\user\source\repos\клад олимпиадная\клад олимпиадная\obj\Debug\клад олимпиадная.pdb

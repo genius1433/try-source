@@ -1,0 +1,7 @@
+c:\users\user\source\repos\спиннеры в кино\спиннеры в кино\bin\Debug\спиннеры в кино.exe.config
+c:\users\user\source\repos\спиннеры в кино\спиннеры в кино\bin\Debug\спиннеры в кино.exe
+c:\users\user\source\repos\спиннеры в кино\спиннеры в кино\bin\Debug\спиннеры в кино.pdb
+c:\users\user\source\repos\спиннеры в кино\спиннеры в кино\obj\Debug\спиннеры в кино.csprojAssemblyReference.cache
+c:\users\user\source\repos\спиннеры в кино\спиннеры в кино\obj\Debug\спиннеры в кино.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\спиннеры в кино\спиннеры в кино\obj\Debug\спиннеры в кино.exe
+c:\users\user\source\repos\спиннеры в кино\спиннеры в кино\obj\Debug\спиннеры в кино.pdb

@@ -1,0 +1,16 @@
+NumberPlate: HN19PDH, Model: Jaguar FType, BodyType: Coupe, Colour: silver, Mileage: 3000, AccidentHystory: none, TransmissionType: automatic, Price: 52000, DateArrival: 01.03.2018 
+NumberPlate: AA13QWE, Model: Ford Transit, BodyType: Van, Colour: black, Mileage: 60000, AccidentHystory: none, TransmissionType: automatic, Price: 7300, DateArrival: 01.11.2018 
+NumberPlate: BA66IHN, Model: Lexus IS, BodyType: Saloon, Colour: white, Mileage: 23000, AccidentHystory: indent on passenger door, TransmissionType: automatic, Price: 18100, DateArrival: 02.01.2019 
+NumberPlate: MA67TTP, Model: Mercedes Citan, BodyType: Van, Colour: white, Mileage: 35900, AccidentHystory: front windscreen damage, TransmissionType: automatic, Price: 10000, DateArrival: 04.08.2018 
+NumberPlate: MX67TCP, Model: Mercedes Citan, BodyType: Van, Colour: white, Mileage: 35000, AccidentHystory: front damage, TransmissionType: manual, Price: 9500, DateArrival: 04.11.2018 
+NumberPlate: PO13FDF, Model: Vauxhall Insignia, BodyType: Saloon, Colour: red, Mileage: 40000, AccidentHystory: none, TransmissionType: manual, Price: 10200, DateArrival: 10.08.2018 
+NumberPlate: UU54IOI, Model: Ford SMax, BodyType: MPV, Colour: red, Mileage: 70000, AccidentHystory: none, TransmissionType: manual, Price: 11000, DateArrival: 13.01.2017 
+NumberPlate: TT66AAA, Model: Lexus NX, BodyType: SUV, Colour: dark blue, Mileage: 12000, AccidentHystory: none, TransmissionType: automatic, Price: 31000, DateArrival: 19.11.2019 
+NumberPlate: PD64HAH, Model: Vauxhall Movano, BodyType: Van, Colour: silver, Mileage: 60000, AccidentHystory: none, TransmissionType: automatic, Price: 8800, DateArrival: 19.11.2019 
+NumberPlate: UU54IOI, Model: Ford SMax, BodyType: MPV, Colour: red, Mileage: 70000, AccidentHystory: none, TransmissionType: automatic, Price: 3800, DateArrival: 19.11.2019 
+NumberPlate: VV10BBB, Model: Vauxhall Movano, BodyType: Van, Colour: white, Mileage: 60000, AccidentHystory: rear windscreen damage, TransmissionType: manual, Price: 5000, DateArrival: 10.01.2019 , DateSell: 01.03.2019
+NumberPlate: PK14EMD, Model: Mercedes EClass, BodyType: Coupe, Colour: yellow, Mileage: 25000, AccidentHystory: none, TransmissionType: automatic, Price: 10400, DateArrival: 08.03.2018 , DateSell: 02.03.2019
+NumberPlate: YB18NBA, Model: Honda Jazz, BodyType: Hatchback, Colour: grey, Mileage: 20000, AccidentHystory: none, TransmissionType: manual, Price: 8000, DateArrival: 01.09.2018 , DateSell: 04.10.2018
+NumberPlate: HN11PHN, Model: BMW 3, BodyType: Saloon, Colour: black, Mileage: 49000, AccidentHystory: door damage, TransmissionType: manual, Price: 9500, DateArrival: 01.03.2019 , DateSell: 05.03.2019
+NumberPlate: PO13FDF, Model: Vauxhall Insignia, BodyType: Saloon, Colour: green, Mileage: 45000, AccidentHystory: none, TransmissionType: automatic, Price: 10800, DateArrival: 08.04.2018 , DateSell: 05.03.2019
+NumberPlate: NB17GFG, Model: Lexus IS, BodyType: Saloon, Colour: dark blue, Mileage: 6000, AccidentHystory: none, TransmissionType: manual, Price: 26100, DateArrival: 04.10.2018 , DateSell: 14.10.2018

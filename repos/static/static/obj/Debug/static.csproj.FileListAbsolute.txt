@@ -1,0 +1,7 @@
+c:\users\user\source\repos\static\static\bin\Debug\@static.exe.config
+c:\users\user\source\repos\static\static\bin\Debug\@static.exe
+c:\users\user\source\repos\static\static\bin\Debug\@static.pdb
+c:\users\user\source\repos\static\static\obj\Debug\static.csprojAssemblyReference.cache
+c:\users\user\source\repos\static\static\obj\Debug\static.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\static\static\obj\Debug\@static.exe
+c:\users\user\source\repos\static\static\obj\Debug\@static.pdb

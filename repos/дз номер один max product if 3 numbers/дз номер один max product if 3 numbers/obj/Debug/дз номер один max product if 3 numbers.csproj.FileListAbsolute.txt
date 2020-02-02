@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\дз номер один max product if 3 numbers\дз номер один max product if 3 numbers\bin\Debug\дз номер один max product if 3 numbers.exe.config
+C:\Users\User\source\repos\дз номер один max product if 3 numbers\дз номер один max product if 3 numbers\bin\Debug\дз номер один max product if 3 numbers.exe
+C:\Users\User\source\repos\дз номер один max product if 3 numbers\дз номер один max product if 3 numbers\bin\Debug\дз номер один max product if 3 numbers.pdb
+C:\Users\User\source\repos\дз номер один max product if 3 numbers\дз номер один max product if 3 numbers\obj\Debug\дз номер один max product if 3 numbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\дз номер один max product if 3 numbers\дз номер один max product if 3 numbers\obj\Debug\дз номер один max product if 3 numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\дз номер один max product if 3 numbers\дз номер один max product if 3 numbers\obj\Debug\дз номер один max product if 3 numbers.exe
+C:\Users\User\source\repos\дз номер один max product if 3 numbers\дз номер один max product if 3 numbers\obj\Debug\дз номер один max product if 3 numbers.pdb

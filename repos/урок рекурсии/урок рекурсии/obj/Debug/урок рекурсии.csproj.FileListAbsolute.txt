@@ -1,0 +1,7 @@
+c:\users\user\source\repos\урок рекурсии\урок рекурсии\bin\Debug\урок рекурсии.exe.config
+c:\users\user\source\repos\урок рекурсии\урок рекурсии\bin\Debug\урок рекурсии.exe
+c:\users\user\source\repos\урок рекурсии\урок рекурсии\bin\Debug\урок рекурсии.pdb
+c:\users\user\source\repos\урок рекурсии\урок рекурсии\obj\Debug\урок рекурсии.csprojAssemblyReference.cache
+c:\users\user\source\repos\урок рекурсии\урок рекурсии\obj\Debug\урок рекурсии.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\урок рекурсии\урок рекурсии\obj\Debug\урок рекурсии.exe
+c:\users\user\source\repos\урок рекурсии\урок рекурсии\obj\Debug\урок рекурсии.pdb

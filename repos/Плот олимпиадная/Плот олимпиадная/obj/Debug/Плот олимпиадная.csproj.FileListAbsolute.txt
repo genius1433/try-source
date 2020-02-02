@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Плот олимпиадная\Плот олимпиадная\bin\Debug\Плот олимпиадная.exe.config
+C:\Users\user\source\repos\Плот олимпиадная\Плот олимпиадная\bin\Debug\Плот олимпиадная.exe
+C:\Users\user\source\repos\Плот олимпиадная\Плот олимпиадная\bin\Debug\Плот олимпиадная.pdb
+C:\Users\user\source\repos\Плот олимпиадная\Плот олимпиадная\obj\Debug\Плот олимпиадная.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Плот олимпиадная\Плот олимпиадная\obj\Debug\Плот олимпиадная.exe
+C:\Users\user\source\repos\Плот олимпиадная\Плот олимпиадная\obj\Debug\Плот олимпиадная.pdb

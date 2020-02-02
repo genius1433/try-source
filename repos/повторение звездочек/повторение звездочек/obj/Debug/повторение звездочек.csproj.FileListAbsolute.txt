@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\повторение звездочек\повторение звездочек\bin\Debug\повторение звездочек.exe.config
+C:\Users\User\source\repos\повторение звездочек\повторение звездочек\bin\Debug\повторение звездочек.exe
+C:\Users\User\source\repos\повторение звездочек\повторение звездочек\bin\Debug\повторение звездочек.pdb
+C:\Users\User\source\repos\повторение звездочек\повторение звездочек\obj\Debug\повторение звездочек.csprojAssemblyReference.cache
+C:\Users\User\source\repos\повторение звездочек\повторение звездочек\obj\Debug\повторение звездочек.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\повторение звездочек\повторение звездочек\obj\Debug\повторение звездочек.exe
+C:\Users\User\source\repos\повторение звездочек\повторение звездочек\obj\Debug\повторение звездочек.pdb

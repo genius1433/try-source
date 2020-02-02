@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\сериализация\сериализация\bin\Debug\сериализация.exe.config
+C:\Users\User\source\repos\сериализация\сериализация\bin\Debug\сериализация.exe
+C:\Users\User\source\repos\сериализация\сериализация\bin\Debug\сериализация.pdb
+C:\Users\User\source\repos\сериализация\сериализация\obj\Debug\сериализация.csprojAssemblyReference.cache
+C:\Users\User\source\repos\сериализация\сериализация\obj\Debug\сериализация.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\сериализация\сериализация\obj\Debug\сериализация.exe
+C:\Users\User\source\repos\сериализация\сериализация\obj\Debug\сериализация.pdb

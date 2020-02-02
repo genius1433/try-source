@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\рекурсия полиндром\рекурсия полиндром\bin\Debug\рекурсия полиндром.exe.config
+C:\Users\User\source\repos\рекурсия полиндром\рекурсия полиндром\bin\Debug\рекурсия полиндром.exe
+C:\Users\User\source\repos\рекурсия полиндром\рекурсия полиндром\bin\Debug\рекурсия полиндром.pdb
+C:\Users\User\source\repos\рекурсия полиндром\рекурсия полиндром\obj\Debug\рекурсия полиндром.csprojAssemblyReference.cache
+C:\Users\User\source\repos\рекурсия полиндром\рекурсия полиндром\obj\Debug\рекурсия полиндром.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\рекурсия полиндром\рекурсия полиндром\obj\Debug\рекурсия полиндром.exe
+C:\Users\User\source\repos\рекурсия полиндром\рекурсия полиндром\obj\Debug\рекурсия полиндром.pdb

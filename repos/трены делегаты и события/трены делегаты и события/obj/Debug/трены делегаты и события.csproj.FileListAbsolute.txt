@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\трены делегаты и события\трены делегаты и события\bin\Debug\трены делегаты и события.exe.config
+C:\Users\User\source\repos\трены делегаты и события\трены делегаты и события\bin\Debug\трены делегаты и события.exe
+C:\Users\User\source\repos\трены делегаты и события\трены делегаты и события\bin\Debug\трены делегаты и события.pdb
+C:\Users\User\source\repos\трены делегаты и события\трены делегаты и события\obj\Debug\трены делегаты и события.csprojAssemblyReference.cache
+C:\Users\User\source\repos\трены делегаты и события\трены делегаты и события\obj\Debug\трены делегаты и события.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\трены делегаты и события\трены делегаты и события\obj\Debug\трены делегаты и события.exe
+C:\Users\User\source\repos\трены делегаты и события\трены делегаты и события\obj\Debug\трены делегаты и события.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\отр и + степень\отр и + степень\bin\Debug\отр и + степень.exe.config
+C:\Users\User\source\repos\отр и + степень\отр и + степень\bin\Debug\отр и + степень.exe
+C:\Users\User\source\repos\отр и + степень\отр и + степень\bin\Debug\отр и + степень.pdb
+C:\Users\User\source\repos\отр и + степень\отр и + степень\obj\Debug\отр и + степень.csprojAssemblyReference.cache
+C:\Users\User\source\repos\отр и + степень\отр и + степень\obj\Debug\отр и + степень.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\отр и + степень\отр и + степень\obj\Debug\отр и + степень.exe
+C:\Users\User\source\repos\отр и + степень\отр и + степень\obj\Debug\отр и + степень.pdb

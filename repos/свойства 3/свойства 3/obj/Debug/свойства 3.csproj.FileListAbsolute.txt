@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\свойства 3\свойства 3\bin\Debug\свойства 3.exe.config
+C:\Users\User\source\repos\свойства 3\свойства 3\bin\Debug\свойства 3.exe
+C:\Users\User\source\repos\свойства 3\свойства 3\bin\Debug\свойства 3.pdb
+C:\Users\User\source\repos\свойства 3\свойства 3\obj\Debug\свойства 3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\свойства 3\свойства 3\obj\Debug\свойства 3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\свойства 3\свойства 3\obj\Debug\свойства 3.exe
+C:\Users\User\source\repos\свойства 3\свойства 3\obj\Debug\свойства 3.pdb

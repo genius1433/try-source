@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\wpf трена\wpf трена\bin\Debug\wpf трена.exe.config
+C:\Users\User\source\repos\wpf трена\wpf трена\bin\Debug\wpf трена.exe
+C:\Users\User\source\repos\wpf трена\wpf трена\bin\Debug\wpf трена.pdb
+C:\Users\User\source\repos\wpf трена\wpf трена\obj\Debug\wpf трена.csprojAssemblyReference.cache
+C:\Users\User\source\repos\wpf трена\wpf трена\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\wpf трена\wpf трена\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\wpf трена\wpf трена\obj\Debug\App.g.cs
+C:\Users\User\source\repos\wpf трена\wpf трена\obj\Debug\wpf трена_MarkupCompile.cache
+C:\Users\User\source\repos\wpf трена\wpf трена\obj\Debug\wpf трена.g.resources
+C:\Users\User\source\repos\wpf трена\wpf трена\obj\Debug\wpf_трена.Properties.Resources.resources
+C:\Users\User\source\repos\wpf трена\wpf трена\obj\Debug\wpf трена.csproj.GenerateResource.cache
+C:\Users\User\source\repos\wpf трена\wpf трена\obj\Debug\wpf трена.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\wpf трена\wpf трена\obj\Debug\wpf трена.exe
+C:\Users\User\source\repos\wpf трена\wpf трена\obj\Debug\wpf трена.pdb

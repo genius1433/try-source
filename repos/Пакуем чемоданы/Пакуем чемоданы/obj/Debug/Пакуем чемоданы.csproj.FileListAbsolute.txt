@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Пакуем чемоданы\Пакуем чемоданы\bin\Debug\Пакуем чемоданы.exe.config
+C:\Users\user\source\repos\Пакуем чемоданы\Пакуем чемоданы\bin\Debug\Пакуем чемоданы.exe
+C:\Users\user\source\repos\Пакуем чемоданы\Пакуем чемоданы\bin\Debug\Пакуем чемоданы.pdb
+C:\Users\user\source\repos\Пакуем чемоданы\Пакуем чемоданы\obj\Debug\Пакуем чемоданы.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Пакуем чемоданы\Пакуем чемоданы\obj\Debug\Пакуем чемоданы.exe
+C:\Users\user\source\repos\Пакуем чемоданы\Пакуем чемоданы\obj\Debug\Пакуем чемоданы.pdb

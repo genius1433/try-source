@@ -1,0 +1,7 @@
+c:\users\user\source\repos\тестовый\тестовый\bin\Debug\тестовый.exe.config
+c:\users\user\source\repos\тестовый\тестовый\bin\Debug\тестовый.exe
+c:\users\user\source\repos\тестовый\тестовый\bin\Debug\тестовый.pdb
+c:\users\user\source\repos\тестовый\тестовый\obj\Debug\тестовый.csprojAssemblyReference.cache
+c:\users\user\source\repos\тестовый\тестовый\obj\Debug\тестовый.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\тестовый\тестовый\obj\Debug\тестовый.exe
+c:\users\user\source\repos\тестовый\тестовый\obj\Debug\тестовый.pdb

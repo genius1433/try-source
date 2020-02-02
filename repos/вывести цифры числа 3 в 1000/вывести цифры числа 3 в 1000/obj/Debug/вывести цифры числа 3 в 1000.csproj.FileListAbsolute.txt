@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\вывести цифры числа 3 в 1000\вывести цифры числа 3 в 1000\bin\Debug\вывести цифры числа 3 в 1000.exe.config
+C:\Users\user\source\repos\вывести цифры числа 3 в 1000\вывести цифры числа 3 в 1000\bin\Debug\вывести цифры числа 3 в 1000.exe
+C:\Users\user\source\repos\вывести цифры числа 3 в 1000\вывести цифры числа 3 в 1000\bin\Debug\вывести цифры числа 3 в 1000.pdb
+C:\Users\user\source\repos\вывести цифры числа 3 в 1000\вывести цифры числа 3 в 1000\obj\Debug\вывести цифры числа 3 в 1000.csprojAssemblyReference.cache
+C:\Users\user\source\repos\вывести цифры числа 3 в 1000\вывести цифры числа 3 в 1000\obj\Debug\вывести цифры числа 3 в 1000.exe
+C:\Users\user\source\repos\вывести цифры числа 3 в 1000\вывести цифры числа 3 в 1000\obj\Debug\вывести цифры числа 3 в 1000.pdb

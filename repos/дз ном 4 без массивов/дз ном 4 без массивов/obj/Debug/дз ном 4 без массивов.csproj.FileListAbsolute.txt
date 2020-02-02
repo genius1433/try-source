@@ -1,0 +1,7 @@
+c:\users\user\source\repos\дз ном 4 без массивов\дз ном 4 без массивов\bin\Debug\дз ном 4 без массивов.exe.config
+c:\users\user\source\repos\дз ном 4 без массивов\дз ном 4 без массивов\bin\Debug\дз ном 4 без массивов.exe
+c:\users\user\source\repos\дз ном 4 без массивов\дз ном 4 без массивов\bin\Debug\дз ном 4 без массивов.pdb
+c:\users\user\source\repos\дз ном 4 без массивов\дз ном 4 без массивов\obj\Debug\дз ном 4 без массивов.csprojAssemblyReference.cache
+c:\users\user\source\repos\дз ном 4 без массивов\дз ном 4 без массивов\obj\Debug\дз ном 4 без массивов.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\дз ном 4 без массивов\дз ном 4 без массивов\obj\Debug\дз ном 4 без массивов.exe
+c:\users\user\source\repos\дз ном 4 без массивов\дз ном 4 без массивов\obj\Debug\дз ном 4 без массивов.pdb

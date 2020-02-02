@@ -1,0 +1,7 @@
+c:\users\user\source\repos\функции\функции\bin\Debug\функции.exe.config
+c:\users\user\source\repos\функции\функции\bin\Debug\функции.exe
+c:\users\user\source\repos\функции\функции\bin\Debug\функции.pdb
+c:\users\user\source\repos\функции\функции\obj\Debug\функции.csprojAssemblyReference.cache
+c:\users\user\source\repos\функции\функции\obj\Debug\функции.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\функции\функции\obj\Debug\функции.exe
+c:\users\user\source\repos\функции\функции\obj\Debug\функции.pdb

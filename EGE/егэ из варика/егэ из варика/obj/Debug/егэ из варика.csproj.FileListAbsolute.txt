@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\егэ из варика\егэ из варика\bin\Debug\егэ из варика.exe.config
+C:\Users\User\source\repos\егэ из варика\егэ из варика\bin\Debug\егэ из варика.exe
+C:\Users\User\source\repos\егэ из варика\егэ из варика\bin\Debug\егэ из варика.pdb
+C:\Users\User\source\repos\егэ из варика\егэ из варика\obj\Debug\егэ из варика.csprojAssemblyReference.cache
+C:\Users\User\source\repos\егэ из варика\егэ из варика\obj\Debug\егэ из варика.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\егэ из варика\егэ из варика\obj\Debug\егэ из варика.exe
+C:\Users\User\source\repos\егэ из варика\егэ из варика\obj\Debug\егэ из варика.pdb

@@ -1,0 +1,7 @@
+c:\users\user\source\repos\дз по матрице ном 2\дз по матрице ном 2\bin\Debug\дз по матрице ном 2.exe.config
+c:\users\user\source\repos\дз по матрице ном 2\дз по матрице ном 2\bin\Debug\дз по матрице ном 2.exe
+c:\users\user\source\repos\дз по матрице ном 2\дз по матрице ном 2\bin\Debug\дз по матрице ном 2.pdb
+c:\users\user\source\repos\дз по матрице ном 2\дз по матрице ном 2\obj\Debug\дз по матрице ном 2.csprojAssemblyReference.cache
+c:\users\user\source\repos\дз по матрице ном 2\дз по матрице ном 2\obj\Debug\дз по матрице ном 2.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\дз по матрице ном 2\дз по матрице ном 2\obj\Debug\дз по матрице ном 2.exe
+c:\users\user\source\repos\дз по матрице ном 2\дз по матрице ном 2\obj\Debug\дз по матрице ном 2.pdb

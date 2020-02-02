@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\дз по ромбу\дз по ромбу\bin\Debug\дз по ромбу.exe.config
+C:\Users\user\source\repos\дз по ромбу\дз по ромбу\bin\Debug\дз по ромбу.exe
+C:\Users\user\source\repos\дз по ромбу\дз по ромбу\bin\Debug\дз по ромбу.pdb
+C:\Users\user\source\repos\дз по ромбу\дз по ромбу\obj\Debug\дз по ромбу.csprojAssemblyReference.cache
+C:\Users\user\source\repos\дз по ромбу\дз по ромбу\obj\Debug\дз по ромбу.exe
+C:\Users\user\source\repos\дз по ромбу\дз по ромбу\obj\Debug\дз по ромбу.pdb

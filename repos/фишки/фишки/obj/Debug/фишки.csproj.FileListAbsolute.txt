@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\фишки\фишки\bin\Debug\фишки.exe.config
+C:\Users\User\source\repos\фишки\фишки\bin\Debug\фишки.exe
+C:\Users\User\source\repos\фишки\фишки\bin\Debug\фишки.pdb
+C:\Users\User\source\repos\фишки\фишки\obj\Debug\фишки.csprojAssemblyReference.cache
+C:\Users\User\source\repos\фишки\фишки\obj\Debug\фишки.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\фишки\фишки\obj\Debug\фишки.exe
+C:\Users\User\source\repos\фишки\фишки\obj\Debug\фишки.pdb

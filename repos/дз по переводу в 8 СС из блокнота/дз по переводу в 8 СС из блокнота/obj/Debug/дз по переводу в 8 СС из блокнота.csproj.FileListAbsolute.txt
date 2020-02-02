@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\дз по переводу в 8 СС из блокнота\дз по переводу в 8 СС из блокнота\bin\Debug\дз по переводу в 8 СС из блокнота.exe.config
+C:\Users\User\source\repos\дз по переводу в 8 СС из блокнота\дз по переводу в 8 СС из блокнота\bin\Debug\дз по переводу в 8 СС из блокнота.exe
+C:\Users\User\source\repos\дз по переводу в 8 СС из блокнота\дз по переводу в 8 СС из блокнота\bin\Debug\дз по переводу в 8 СС из блокнота.pdb
+C:\Users\User\source\repos\дз по переводу в 8 СС из блокнота\дз по переводу в 8 СС из блокнота\obj\Debug\дз по переводу в 8 СС из блокнота.csprojAssemblyReference.cache
+C:\Users\User\source\repos\дз по переводу в 8 СС из блокнота\дз по переводу в 8 СС из блокнота\obj\Debug\дз по переводу в 8 СС из блокнота.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\дз по переводу в 8 СС из блокнота\дз по переводу в 8 СС из блокнота\obj\Debug\дз по переводу в 8 СС из блокнота.exe
+C:\Users\User\source\repos\дз по переводу в 8 СС из блокнота\дз по переводу в 8 СС из блокнота\obj\Debug\дз по переводу в 8 СС из блокнота.pdb

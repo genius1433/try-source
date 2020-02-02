@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\паттерны трена\паттерны трена\bin\Debug\паттерны трена.exe.config
+C:\Users\User\source\repos\паттерны трена\паттерны трена\bin\Debug\паттерны трена.exe
+C:\Users\User\source\repos\паттерны трена\паттерны трена\bin\Debug\паттерны трена.pdb
+C:\Users\User\source\repos\паттерны трена\паттерны трена\obj\Debug\паттерны трена.csprojAssemblyReference.cache
+C:\Users\User\source\repos\паттерны трена\паттерны трена\obj\Debug\паттерны трена.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\паттерны трена\паттерны трена\obj\Debug\паттерны трена.exe
+C:\Users\User\source\repos\паттерны трена\паттерны трена\obj\Debug\паттерны трена.pdb

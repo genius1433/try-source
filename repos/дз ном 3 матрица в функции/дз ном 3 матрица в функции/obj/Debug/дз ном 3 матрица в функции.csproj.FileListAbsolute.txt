@@ -1,0 +1,7 @@
+c:\users\user\source\repos\дз ном 3 матрица в функции\дз ном 3 матрица в функции\obj\Debug\дз ном 3 матрица в функции.csprojAssemblyReference.cache
+c:\users\user\source\repos\дз ном 3 матрица в функции\дз ном 3 матрица в функции\obj\Debug\дз ном 3 матрица в функции.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\дз ном 3 матрица в функции\дз ном 3 матрица в функции\bin\Debug\дз ном 3 матрица в функции.exe.config
+c:\users\user\source\repos\дз ном 3 матрица в функции\дз ном 3 матрица в функции\bin\Debug\дз ном 3 матрица в функции.exe
+c:\users\user\source\repos\дз ном 3 матрица в функции\дз ном 3 матрица в функции\bin\Debug\дз ном 3 матрица в функции.pdb
+c:\users\user\source\repos\дз ном 3 матрица в функции\дз ном 3 матрица в функции\obj\Debug\дз ном 3 матрица в функции.exe
+c:\users\user\source\repos\дз ном 3 матрица в функции\дз ном 3 матрица в функции\obj\Debug\дз ном 3 матрица в функции.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\рекурсия сумма повтор\рекурсия сумма повтор\bin\Debug\рекурсия сумма повтор.exe.config
+C:\Users\User\source\repos\рекурсия сумма повтор\рекурсия сумма повтор\bin\Debug\рекурсия сумма повтор.exe
+C:\Users\User\source\repos\рекурсия сумма повтор\рекурсия сумма повтор\bin\Debug\рекурсия сумма повтор.pdb
+C:\Users\User\source\repos\рекурсия сумма повтор\рекурсия сумма повтор\obj\Debug\рекурсия сумма повтор.csprojAssemblyReference.cache
+C:\Users\User\source\repos\рекурсия сумма повтор\рекурсия сумма повтор\obj\Debug\рекурсия сумма повтор.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\рекурсия сумма повтор\рекурсия сумма повтор\obj\Debug\рекурсия сумма повтор.exe
+C:\Users\User\source\repos\рекурсия сумма повтор\рекурсия сумма повтор\obj\Debug\рекурсия сумма повтор.pdb

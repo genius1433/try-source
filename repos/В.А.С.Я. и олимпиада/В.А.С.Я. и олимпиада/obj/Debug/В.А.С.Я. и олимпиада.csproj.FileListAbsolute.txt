@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\В.А.С.Я. и олимпиада\В.А.С.Я. и олимпиада\bin\Debug\В.А.С.Я.и_олимпиада.exe.config
+C:\Users\User\source\repos\В.А.С.Я. и олимпиада\В.А.С.Я. и олимпиада\bin\Debug\В.А.С.Я.и_олимпиада.exe
+C:\Users\User\source\repos\В.А.С.Я. и олимпиада\В.А.С.Я. и олимпиада\bin\Debug\В.А.С.Я.и_олимпиада.pdb
+C:\Users\User\source\repos\В.А.С.Я. и олимпиада\В.А.С.Я. и олимпиада\obj\Debug\В.А.С.Я. и олимпиада.csprojAssemblyReference.cache
+C:\Users\User\source\repos\В.А.С.Я. и олимпиада\В.А.С.Я. и олимпиада\obj\Debug\В.А.С.Я. и олимпиада.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\В.А.С.Я. и олимпиада\В.А.С.Я. и олимпиада\obj\Debug\В.А.С.Я.и_олимпиада.exe
+C:\Users\User\source\repos\В.А.С.Я. и олимпиада\В.А.С.Я. и олимпиада\obj\Debug\В.А.С.Я.и_олимпиада.pdb

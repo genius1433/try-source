@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\массив классов сдвиг влево\массив классов сдвиг влево\bin\Debug\массив классов сдвиг влево.exe.config
+C:\Users\User\source\repos\массив классов сдвиг влево\массив классов сдвиг влево\bin\Debug\массив классов сдвиг влево.exe
+C:\Users\User\source\repos\массив классов сдвиг влево\массив классов сдвиг влево\bin\Debug\массив классов сдвиг влево.pdb
+C:\Users\User\source\repos\массив классов сдвиг влево\массив классов сдвиг влево\obj\Debug\массив классов сдвиг влево.csprojAssemblyReference.cache
+C:\Users\User\source\repos\массив классов сдвиг влево\массив классов сдвиг влево\obj\Debug\массив классов сдвиг влево.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\массив классов сдвиг влево\массив классов сдвиг влево\obj\Debug\массив классов сдвиг влево.exe
+C:\Users\User\source\repos\массив классов сдвиг влево\массив классов сдвиг влево\obj\Debug\массив классов сдвиг влево.pdb

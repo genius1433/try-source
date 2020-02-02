@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\дз ном 2 по массивам\дз ном 2 по массивам\bin\Debug\дз ном 2 по массивам.exe.config
+C:\Users\User\source\repos\дз ном 2 по массивам\дз ном 2 по массивам\bin\Debug\дз ном 2 по массивам.exe
+C:\Users\User\source\repos\дз ном 2 по массивам\дз ном 2 по массивам\bin\Debug\дз ном 2 по массивам.pdb
+C:\Users\User\source\repos\дз ном 2 по массивам\дз ном 2 по массивам\obj\Debug\дз ном 2 по массивам.csprojAssemblyReference.cache
+C:\Users\User\source\repos\дз ном 2 по массивам\дз ном 2 по массивам\obj\Debug\дз ном 2 по массивам.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\дз ном 2 по массивам\дз ном 2 по массивам\obj\Debug\дз ном 2 по массивам.exe
+C:\Users\User\source\repos\дз ном 2 по массивам\дз ном 2 по массивам\obj\Debug\дз ном 2 по массивам.pdb

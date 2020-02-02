@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\олимпиадная школньая парад\олимпиадная школньая парад\bin\Debug\олимпиадная школньая парад.exe.config
+C:\Users\user\source\repos\олимпиадная школньая парад\олимпиадная школньая парад\bin\Debug\олимпиадная школньая парад.exe
+C:\Users\user\source\repos\олимпиадная школньая парад\олимпиадная школньая парад\bin\Debug\олимпиадная школньая парад.pdb
+C:\Users\user\source\repos\олимпиадная школньая парад\олимпиадная школньая парад\obj\Debug\олимпиадная школньая парад.csprojAssemblyReference.cache
+C:\Users\user\source\repos\олимпиадная школньая парад\олимпиадная школньая парад\obj\Debug\олимпиадная школньая парад.exe
+C:\Users\user\source\repos\олимпиадная школньая парад\олимпиадная школньая парад\obj\Debug\олимпиадная школньая парад.pdb

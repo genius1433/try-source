@@ -1,0 +1,7 @@
+c:\users\user\source\repos\строки, цифры подряд\строки, цифры подряд\bin\Debug\строки, цифры подряд.exe.config
+c:\users\user\source\repos\строки, цифры подряд\строки, цифры подряд\bin\Debug\строки, цифры подряд.exe
+c:\users\user\source\repos\строки, цифры подряд\строки, цифры подряд\bin\Debug\строки, цифры подряд.pdb
+c:\users\user\source\repos\строки, цифры подряд\строки, цифры подряд\obj\Debug\строки, цифры подряд.csprojAssemblyReference.cache
+c:\users\user\source\repos\строки, цифры подряд\строки, цифры подряд\obj\Debug\строки, цифры подряд.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\строки, цифры подряд\строки, цифры подряд\obj\Debug\строки, цифры подряд.exe
+c:\users\user\source\repos\строки, цифры подряд\строки, цифры подряд\obj\Debug\строки, цифры подряд.pdb

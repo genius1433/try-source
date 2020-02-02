@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\события примеры\события примеры\bin\Debug\события примеры.exe.config
+C:\Users\User\source\repos\события примеры\события примеры\bin\Debug\события примеры.exe
+C:\Users\User\source\repos\события примеры\события примеры\bin\Debug\события примеры.pdb
+C:\Users\User\source\repos\события примеры\события примеры\obj\Debug\события примеры.csprojAssemblyReference.cache
+C:\Users\User\source\repos\события примеры\события примеры\obj\Debug\события примеры.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\события примеры\события примеры\obj\Debug\события примеры.exe
+C:\Users\User\source\repos\события примеры\события примеры\obj\Debug\события примеры.pdb

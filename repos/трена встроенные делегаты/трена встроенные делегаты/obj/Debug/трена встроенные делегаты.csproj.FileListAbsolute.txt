@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\трена встроенные делегаты\трена встроенные делегаты\bin\Debug\трена встроенные делегаты.exe.config
+C:\Users\User\source\repos\трена встроенные делегаты\трена встроенные делегаты\bin\Debug\трена встроенные делегаты.exe
+C:\Users\User\source\repos\трена встроенные делегаты\трена встроенные делегаты\bin\Debug\трена встроенные делегаты.pdb
+C:\Users\User\source\repos\трена встроенные делегаты\трена встроенные делегаты\obj\Debug\трена встроенные делегаты.csprojAssemblyReference.cache
+C:\Users\User\source\repos\трена встроенные делегаты\трена встроенные делегаты\obj\Debug\трена встроенные делегаты.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\трена встроенные делегаты\трена встроенные делегаты\obj\Debug\трена встроенные делегаты.exe
+C:\Users\User\source\repos\трена встроенные делегаты\трена встроенные делегаты\obj\Debug\трена встроенные делегаты.pdb

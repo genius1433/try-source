@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\format\format\bin\Debug\format.exe.config
+C:\Users\User\source\repos\format\format\bin\Debug\format.exe
+C:\Users\User\source\repos\format\format\bin\Debug\format.pdb
+C:\Users\User\source\repos\format\format\obj\Debug\format.csprojAssemblyReference.cache
+C:\Users\User\source\repos\format\format\obj\Debug\format.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\format\format\obj\Debug\format.exe
+C:\Users\User\source\repos\format\format\obj\Debug\format.pdb

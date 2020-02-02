@@ -1,0 +1,7 @@
+c:\users\user\source\repos\дз номер 4 по масивам\дз номер 4 по масивам\bin\Debug\дз номер 4 по масивам.exe.config
+c:\users\user\source\repos\дз номер 4 по масивам\дз номер 4 по масивам\bin\Debug\дз номер 4 по масивам.exe
+c:\users\user\source\repos\дз номер 4 по масивам\дз номер 4 по масивам\bin\Debug\дз номер 4 по масивам.pdb
+c:\users\user\source\repos\дз номер 4 по масивам\дз номер 4 по масивам\obj\Debug\дз номер 4 по масивам.csprojAssemblyReference.cache
+c:\users\user\source\repos\дз номер 4 по масивам\дз номер 4 по масивам\obj\Debug\дз номер 4 по масивам.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\дз номер 4 по масивам\дз номер 4 по масивам\obj\Debug\дз номер 4 по масивам.exe
+c:\users\user\source\repos\дз номер 4 по масивам\дз номер 4 по масивам\obj\Debug\дз номер 4 по масивам.pdb

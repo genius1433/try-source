@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\дз ном 3 генератор\дз ном 3 генератор\bin\Debug\дз ном 3 генератор.exe.config
+C:\Users\User\source\repos\дз ном 3 генератор\дз ном 3 генератор\bin\Debug\дз ном 3 генератор.exe
+C:\Users\User\source\repos\дз ном 3 генератор\дз ном 3 генератор\bin\Debug\дз ном 3 генератор.pdb
+C:\Users\User\source\repos\дз ном 3 генератор\дз ном 3 генератор\obj\Debug\дз ном 3 генератор.csprojAssemblyReference.cache
+C:\Users\User\source\repos\дз ном 3 генератор\дз ном 3 генератор\obj\Debug\дз ном 3 генератор.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\дз ном 3 генератор\дз ном 3 генератор\obj\Debug\дз ном 3 генератор.exe
+C:\Users\User\source\repos\дз ном 3 генератор\дз ном 3 генератор\obj\Debug\дз ном 3 генератор.pdb

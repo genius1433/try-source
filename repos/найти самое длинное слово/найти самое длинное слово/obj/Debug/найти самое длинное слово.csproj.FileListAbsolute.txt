@@ -1,0 +1,7 @@
+c:\users\user\source\repos\найти самое длинное слово\найти самое длинное слово\bin\Debug\найти самое длинное слово.exe.config
+c:\users\user\source\repos\найти самое длинное слово\найти самое длинное слово\bin\Debug\найти самое длинное слово.exe
+c:\users\user\source\repos\найти самое длинное слово\найти самое длинное слово\bin\Debug\найти самое длинное слово.pdb
+c:\users\user\source\repos\найти самое длинное слово\найти самое длинное слово\obj\Debug\найти самое длинное слово.csprojAssemblyReference.cache
+c:\users\user\source\repos\найти самое длинное слово\найти самое длинное слово\obj\Debug\найти самое длинное слово.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\найти самое длинное слово\найти самое длинное слово\obj\Debug\найти самое длинное слово.exe
+c:\users\user\source\repos\найти самое длинное слово\найти самое длинное слово\obj\Debug\найти самое длинное слово.pdb

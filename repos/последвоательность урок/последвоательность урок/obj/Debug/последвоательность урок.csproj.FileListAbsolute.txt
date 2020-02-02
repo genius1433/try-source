@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\последвоательность урок\последвоательность урок\bin\Debug\последвоательность урок.exe.config
+C:\Users\User\source\repos\последвоательность урок\последвоательность урок\bin\Debug\последвоательность урок.exe
+C:\Users\User\source\repos\последвоательность урок\последвоательность урок\bin\Debug\последвоательность урок.pdb
+C:\Users\User\source\repos\последвоательность урок\последвоательность урок\obj\Debug\последвоательность урок.csprojAssemblyReference.cache
+C:\Users\User\source\repos\последвоательность урок\последвоательность урок\obj\Debug\последвоательность урок.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\последвоательность урок\последвоательность урок\obj\Debug\последвоательность урок.exe
+C:\Users\User\source\repos\последвоательность урок\последвоательность урок\obj\Debug\последвоательность урок.pdb

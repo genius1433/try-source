@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\трена каты\трена каты\bin\Debug\трена каты.exe.config
+C:\Users\User\source\repos\трена каты\трена каты\bin\Debug\трена каты.exe
+C:\Users\User\source\repos\трена каты\трена каты\bin\Debug\трена каты.pdb
+C:\Users\User\source\repos\трена каты\трена каты\obj\Debug\трена каты.csprojAssemblyReference.cache
+C:\Users\User\source\repos\трена каты\трена каты\obj\Debug\трена каты.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\трена каты\трена каты\obj\Debug\трена каты.exe
+C:\Users\User\source\repos\трена каты\трена каты\obj\Debug\трена каты.pdb

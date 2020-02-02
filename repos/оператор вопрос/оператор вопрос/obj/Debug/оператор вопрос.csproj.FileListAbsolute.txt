@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\оператор вопрос\оператор вопрос\bin\Debug\оператор вопрос.exe.config
+C:\Users\User\source\repos\оператор вопрос\оператор вопрос\bin\Debug\оператор вопрос.exe
+C:\Users\User\source\repos\оператор вопрос\оператор вопрос\bin\Debug\оператор вопрос.pdb
+C:\Users\User\source\repos\оператор вопрос\оператор вопрос\obj\Debug\оператор вопрос.csprojAssemblyReference.cache
+C:\Users\User\source\repos\оператор вопрос\оператор вопрос\obj\Debug\оператор вопрос.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\оператор вопрос\оператор вопрос\obj\Debug\оператор вопрос.exe
+C:\Users\User\source\repos\оператор вопрос\оператор вопрос\obj\Debug\оператор вопрос.pdb

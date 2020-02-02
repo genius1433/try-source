@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\урок массивы\урок массивы\bin\Debug\урок массивы.exe.config
+C:\Users\User\source\repos\урок массивы\урок массивы\bin\Debug\урок массивы.exe
+C:\Users\User\source\repos\урок массивы\урок массивы\bin\Debug\урок массивы.pdb
+C:\Users\User\source\repos\урок массивы\урок массивы\obj\Debug\урок массивы.csprojAssemblyReference.cache
+C:\Users\User\source\repos\урок массивы\урок массивы\obj\Debug\урок массивы.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\урок массивы\урок массивы\obj\Debug\урок массивы.exe
+C:\Users\User\source\repos\урок массивы\урок массивы\obj\Debug\урок массивы.pdb

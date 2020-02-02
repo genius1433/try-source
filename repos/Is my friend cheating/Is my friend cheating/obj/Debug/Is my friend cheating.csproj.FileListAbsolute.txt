@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Is my friend cheating\Is my friend cheating\bin\Debug\Is my friend cheating.exe.config
+C:\Users\User\source\repos\Is my friend cheating\Is my friend cheating\bin\Debug\Is my friend cheating.exe
+C:\Users\User\source\repos\Is my friend cheating\Is my friend cheating\bin\Debug\Is my friend cheating.pdb
+C:\Users\User\source\repos\Is my friend cheating\Is my friend cheating\obj\Debug\Is my friend cheating.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Is my friend cheating\Is my friend cheating\obj\Debug\Is my friend cheating.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Is my friend cheating\Is my friend cheating\obj\Debug\Is my friend cheating.exe
+C:\Users\User\source\repos\Is my friend cheating\Is my friend cheating\obj\Debug\Is my friend cheating.pdb

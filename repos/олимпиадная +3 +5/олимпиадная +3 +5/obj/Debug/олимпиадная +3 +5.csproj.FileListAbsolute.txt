@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\олимпиадная +3 +5\олимпиадная +3 +5\bin\Debug\олимпиадная +3 +5.exe.config
+C:\Users\user\source\repos\олимпиадная +3 +5\олимпиадная +3 +5\bin\Debug\олимпиадная +3 +5.exe
+C:\Users\user\source\repos\олимпиадная +3 +5\олимпиадная +3 +5\bin\Debug\олимпиадная +3 +5.pdb
+C:\Users\user\source\repos\олимпиадная +3 +5\олимпиадная +3 +5\obj\Debug\олимпиадная +3 +5.csprojAssemblyReference.cache
+C:\Users\user\source\repos\олимпиадная +3 +5\олимпиадная +3 +5\obj\Debug\олимпиадная +3 +5.exe
+C:\Users\user\source\repos\олимпиадная +3 +5\олимпиадная +3 +5\obj\Debug\олимпиадная +3 +5.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\fraction codewars\fraction codewars\bin\Debug\fraction codewars.exe.config
+C:\Users\User\source\repos\fraction codewars\fraction codewars\bin\Debug\fraction codewars.exe
+C:\Users\User\source\repos\fraction codewars\fraction codewars\bin\Debug\fraction codewars.pdb
+C:\Users\User\source\repos\fraction codewars\fraction codewars\obj\Debug\fraction codewars.csprojAssemblyReference.cache
+C:\Users\User\source\repos\fraction codewars\fraction codewars\obj\Debug\fraction codewars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fraction codewars\fraction codewars\obj\Debug\fraction codewars.exe
+C:\Users\User\source\repos\fraction codewars\fraction codewars\obj\Debug\fraction codewars.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\проработка\проработка\bin\Debug\проработка.exe.config
+C:\Users\User\source\repos\проработка\проработка\bin\Debug\проработка.exe
+C:\Users\User\source\repos\проработка\проработка\bin\Debug\проработка.pdb
+C:\Users\User\source\repos\проработка\проработка\obj\Debug\проработка.csprojAssemblyReference.cache
+C:\Users\User\source\repos\проработка\проработка\obj\Debug\проработка.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\проработка\проработка\obj\Debug\проработка.exe
+C:\Users\User\source\repos\проработка\проработка\obj\Debug\проработка.pdb

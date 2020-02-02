@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\шифровка данных\шифровка данных\bin\Debug\шифровка данных.exe.config
+C:\Users\User\source\repos\шифровка данных\шифровка данных\bin\Debug\шифровка данных.exe
+C:\Users\User\source\repos\шифровка данных\шифровка данных\bin\Debug\шифровка данных.pdb
+C:\Users\User\source\repos\шифровка данных\шифровка данных\obj\Debug\шифровка данных.csprojAssemblyReference.cache
+C:\Users\User\source\repos\шифровка данных\шифровка данных\obj\Debug\шифровка данных.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\шифровка данных\шифровка данных\obj\Debug\шифровка данных.exe
+C:\Users\User\source\repos\шифровка данных\шифровка данных\obj\Debug\шифровка данных.pdb

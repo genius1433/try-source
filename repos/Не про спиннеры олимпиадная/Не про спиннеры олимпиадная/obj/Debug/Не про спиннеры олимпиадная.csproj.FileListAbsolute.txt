@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Не про спиннеры олимпиадная\Не про спиннеры олимпиадная\bin\Debug\Не про спиннеры олимпиадная.exe.config
+C:\Users\user\source\repos\Не про спиннеры олимпиадная\Не про спиннеры олимпиадная\bin\Debug\Не про спиннеры олимпиадная.exe
+C:\Users\user\source\repos\Не про спиннеры олимпиадная\Не про спиннеры олимпиадная\bin\Debug\Не про спиннеры олимпиадная.pdb
+C:\Users\user\source\repos\Не про спиннеры олимпиадная\Не про спиннеры олимпиадная\obj\Debug\Не про спиннеры олимпиадная.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Не про спиннеры олимпиадная\Не про спиннеры олимпиадная\obj\Debug\Не про спиннеры олимпиадная.exe
+C:\Users\user\source\repos\Не про спиннеры олимпиадная\Не про спиннеры олимпиадная\obj\Debug\Не про спиннеры олимпиадная.pdb

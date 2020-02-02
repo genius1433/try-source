@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Бабушка и Красная Шапочка\Бабушка и Красная Шапочка\bin\Debug\Бабушка и Красная Шапочка.exe.config
+C:\Users\User\source\repos\Бабушка и Красная Шапочка\Бабушка и Красная Шапочка\bin\Debug\Бабушка и Красная Шапочка.exe
+C:\Users\User\source\repos\Бабушка и Красная Шапочка\Бабушка и Красная Шапочка\bin\Debug\Бабушка и Красная Шапочка.pdb
+C:\Users\User\source\repos\Бабушка и Красная Шапочка\Бабушка и Красная Шапочка\obj\Debug\Бабушка и Красная Шапочка.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Бабушка и Красная Шапочка\Бабушка и Красная Шапочка\obj\Debug\Бабушка и Красная Шапочка.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Бабушка и Красная Шапочка\Бабушка и Красная Шапочка\obj\Debug\Бабушка и Красная Шапочка.exe
+C:\Users\User\source\repos\Бабушка и Красная Шапочка\Бабушка и Красная Шапочка\obj\Debug\Бабушка и Красная Шапочка.pdb

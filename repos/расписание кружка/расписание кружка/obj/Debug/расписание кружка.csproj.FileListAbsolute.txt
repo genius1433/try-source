@@ -1,0 +1,7 @@
+c:\users\user\source\repos\расписание кружка\расписание кружка\bin\Debug\расписание кружка.exe.config
+c:\users\user\source\repos\расписание кружка\расписание кружка\bin\Debug\расписание кружка.exe
+c:\users\user\source\repos\расписание кружка\расписание кружка\bin\Debug\расписание кружка.pdb
+c:\users\user\source\repos\расписание кружка\расписание кружка\obj\Debug\расписание кружка.csprojAssemblyReference.cache
+c:\users\user\source\repos\расписание кружка\расписание кружка\obj\Debug\расписание кружка.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\расписание кружка\расписание кружка\obj\Debug\расписание кружка.exe
+c:\users\user\source\repos\расписание кружка\расписание кружка\obj\Debug\расписание кружка.pdb

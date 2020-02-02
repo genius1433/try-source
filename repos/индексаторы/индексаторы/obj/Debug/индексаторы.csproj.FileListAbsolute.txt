@@ -1,0 +1,7 @@
+c:\users\user\source\repos\индексаторы\индексаторы\bin\Debug\индексаторы.exe.config
+c:\users\user\source\repos\индексаторы\индексаторы\bin\Debug\индексаторы.exe
+c:\users\user\source\repos\индексаторы\индексаторы\bin\Debug\индексаторы.pdb
+c:\users\user\source\repos\индексаторы\индексаторы\obj\Debug\индексаторы.csprojAssemblyReference.cache
+c:\users\user\source\repos\индексаторы\индексаторы\obj\Debug\индексаторы.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\индексаторы\индексаторы\obj\Debug\индексаторы.exe
+c:\users\user\source\repos\индексаторы\индексаторы\obj\Debug\индексаторы.pdb

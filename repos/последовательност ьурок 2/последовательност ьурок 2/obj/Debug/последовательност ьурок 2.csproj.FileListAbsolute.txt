@@ -1,0 +1,7 @@
+c:\users\user\source\repos\последовательност ьурок 2\последовательност ьурок 2\bin\Debug\последовательност ьурок 2.exe.config
+c:\users\user\source\repos\последовательност ьурок 2\последовательност ьурок 2\bin\Debug\последовательност ьурок 2.exe
+c:\users\user\source\repos\последовательност ьурок 2\последовательност ьурок 2\bin\Debug\последовательност ьурок 2.pdb
+c:\users\user\source\repos\последовательност ьурок 2\последовательност ьурок 2\obj\Debug\последовательност ьурок 2.csprojAssemblyReference.cache
+c:\users\user\source\repos\последовательност ьурок 2\последовательност ьурок 2\obj\Debug\последовательност ьурок 2.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\последовательност ьурок 2\последовательност ьурок 2\obj\Debug\последовательност ьурок 2.exe
+c:\users\user\source\repos\последовательност ьурок 2\последовательност ьурок 2\obj\Debug\последовательност ьурок 2.pdb

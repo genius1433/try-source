@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\наследование 2\наследование 2\bin\Debug\наследование 2.exe.config
+C:\Users\User\source\repos\наследование 2\наследование 2\bin\Debug\наследование 2.exe
+C:\Users\User\source\repos\наследование 2\наследование 2\bin\Debug\наследование 2.pdb
+C:\Users\User\source\repos\наследование 2\наследование 2\obj\Debug\наследование 2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\наследование 2\наследование 2\obj\Debug\наследование 2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\наследование 2\наследование 2\obj\Debug\наследование 2.exe
+C:\Users\User\source\repos\наследование 2\наследование 2\obj\Debug\наследование 2.pdb

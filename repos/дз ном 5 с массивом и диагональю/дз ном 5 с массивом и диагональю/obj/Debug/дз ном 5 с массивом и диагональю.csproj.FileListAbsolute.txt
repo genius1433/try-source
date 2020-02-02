@@ -1,0 +1,7 @@
+c:\users\user\source\repos\дз ном 5 с массивом и диагональю\дз ном 5 с массивом и диагональю\bin\Debug\дз ном 5 с массивом и диагональю.exe.config
+c:\users\user\source\repos\дз ном 5 с массивом и диагональю\дз ном 5 с массивом и диагональю\bin\Debug\дз ном 5 с массивом и диагональю.exe
+c:\users\user\source\repos\дз ном 5 с массивом и диагональю\дз ном 5 с массивом и диагональю\bin\Debug\дз ном 5 с массивом и диагональю.pdb
+c:\users\user\source\repos\дз ном 5 с массивом и диагональю\дз ном 5 с массивом и диагональю\obj\Debug\дз ном 5 с массивом и диагональю.csprojAssemblyReference.cache
+c:\users\user\source\repos\дз ном 5 с массивом и диагональю\дз ном 5 с массивом и диагональю\obj\Debug\дз ном 5 с массивом и диагональю.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\дз ном 5 с массивом и диагональю\дз ном 5 с массивом и диагональю\obj\Debug\дз ном 5 с массивом и диагональю.exe
+c:\users\user\source\repos\дз ном 5 с массивом и диагональю\дз ном 5 с массивом и диагональю\obj\Debug\дз ном 5 с массивом и диагональю.pdb

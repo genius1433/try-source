@@ -1,0 +1,7 @@
+c:\users\user\source\repos\кратное трем\кратное трем\bin\Debug\кратное трем.exe.config
+c:\users\user\source\repos\кратное трем\кратное трем\bin\Debug\кратное трем.exe
+c:\users\user\source\repos\кратное трем\кратное трем\bin\Debug\кратное трем.pdb
+c:\users\user\source\repos\кратное трем\кратное трем\obj\Debug\кратное трем.csprojAssemblyReference.cache
+c:\users\user\source\repos\кратное трем\кратное трем\obj\Debug\кратное трем.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\кратное трем\кратное трем\obj\Debug\кратное трем.exe
+c:\users\user\source\repos\кратное трем\кратное трем\obj\Debug\кратное трем.pdb

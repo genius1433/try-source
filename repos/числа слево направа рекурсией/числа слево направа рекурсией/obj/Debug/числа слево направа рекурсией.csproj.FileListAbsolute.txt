@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\числа слево направа рекурсией\числа слево направа рекурсией\bin\Debug\числа слево направа рекурсией.exe.config
+C:\Users\User\source\repos\числа слево направа рекурсией\числа слево направа рекурсией\bin\Debug\числа слево направа рекурсией.exe
+C:\Users\User\source\repos\числа слево направа рекурсией\числа слево направа рекурсией\bin\Debug\числа слево направа рекурсией.pdb
+C:\Users\User\source\repos\числа слево направа рекурсией\числа слево направа рекурсией\obj\Debug\числа слево направа рекурсией.csprojAssemblyReference.cache
+C:\Users\User\source\repos\числа слево направа рекурсией\числа слево направа рекурсией\obj\Debug\числа слево направа рекурсией.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\числа слево направа рекурсией\числа слево направа рекурсией\obj\Debug\числа слево направа рекурсией.exe
+C:\Users\User\source\repos\числа слево направа рекурсией\числа слево направа рекурсией\obj\Debug\числа слево направа рекурсией.pdb

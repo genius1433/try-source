@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "массив классов сдвиг влево", "массив классов сдвиг влево\массив классов сдвиг влево.csproj", "{EE4CD8DD-8152-4F15-A105-B1239DBE8FB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE4CD8DD-8152-4F15-A105-B1239DBE8FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4CD8DD-8152-4F15-A105-B1239DBE8FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4CD8DD-8152-4F15-A105-B1239DBE8FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4CD8DD-8152-4F15-A105-B1239DBE8FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B22DE28F-A42E-45DD-BF12-7E140ECE2E1E}
+	EndGlobalSection
+EndGlobal

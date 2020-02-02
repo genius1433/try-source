@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\сдвиг вправо\сдвиг вправо\bin\Debug\сдвиг вправо.exe.config
+C:\Users\User\source\repos\сдвиг вправо\сдвиг вправо\bin\Debug\сдвиг вправо.exe
+C:\Users\User\source\repos\сдвиг вправо\сдвиг вправо\bin\Debug\сдвиг вправо.pdb
+C:\Users\User\source\repos\сдвиг вправо\сдвиг вправо\obj\Debug\сдвиг вправо.csprojAssemblyReference.cache
+C:\Users\User\source\repos\сдвиг вправо\сдвиг вправо\obj\Debug\сдвиг вправо.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\сдвиг вправо\сдвиг вправо\obj\Debug\сдвиг вправо.exe
+C:\Users\User\source\repos\сдвиг вправо\сдвиг вправо\obj\Debug\сдвиг вправо.pdb

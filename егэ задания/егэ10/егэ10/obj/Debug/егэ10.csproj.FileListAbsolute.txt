@@ -1,0 +1,6 @@
+C:\Users\user\source\егэ задания\егэ10\егэ10\bin\Debug\егэ10.exe.config
+C:\Users\user\source\егэ задания\егэ10\егэ10\bin\Debug\егэ10.exe
+C:\Users\user\source\егэ задания\егэ10\егэ10\bin\Debug\егэ10.pdb
+C:\Users\user\source\егэ задания\егэ10\егэ10\obj\Debug\егэ10.csprojAssemblyReference.cache
+C:\Users\user\source\егэ задания\егэ10\егэ10\obj\Debug\егэ10.exe
+C:\Users\user\source\егэ задания\егэ10\егэ10\obj\Debug\егэ10.pdb

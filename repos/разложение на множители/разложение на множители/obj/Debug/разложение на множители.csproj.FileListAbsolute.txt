@@ -1,0 +1,7 @@
+c:\users\user\source\repos\разложение на множители\разложение на множители\bin\Debug\разложение на множители.exe.config
+c:\users\user\source\repos\разложение на множители\разложение на множители\bin\Debug\разложение на множители.exe
+c:\users\user\source\repos\разложение на множители\разложение на множители\bin\Debug\разложение на множители.pdb
+c:\users\user\source\repos\разложение на множители\разложение на множители\obj\Debug\разложение на множители.csprojAssemblyReference.cache
+c:\users\user\source\repos\разложение на множители\разложение на множители\obj\Debug\разложение на множители.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\разложение на множители\разложение на множители\obj\Debug\разложение на множители.exe
+c:\users\user\source\repos\разложение на множители\разложение на множители\obj\Debug\разложение на множители.pdb

@@ -1,0 +1,34 @@
+C:\Users\User\source\repos\WPF bigprodject\WPF bigprodject\obj\Debug\WPF bigprodject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WPF bigprodject\WPF bigprodject\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\WPF bigprodject\WPF bigprodject\obj\Debug\SecondWindow.g.cs
+C:\Users\User\source\repos\WPF bigprodject\WPF bigprodject\obj\Debug\App.g.cs
+C:\Users\User\source\repos\WPF bigprodject\WPF bigprodject\obj\Debug\WPF bigprodject_MarkupCompile.cache
+C:\Users\User\source\repos\WPF bigprodject\WPF bigprodject\obj\Debug\WPF bigprodject_MarkupCompile.lref
+C:\Users\user\source\repos\WPF bigprodject\WPF bigprodject\bin\Debug\WPF bigprodject.exe.config
+C:\Users\user\source\repos\WPF bigprodject\WPF bigprodject\bin\Debug\WPF bigprodject.exe
+C:\Users\user\source\repos\WPF bigprodject\WPF bigprodject\bin\Debug\WPF bigprodject.pdb
+C:\Users\user\source\repos\WPF bigprodject\WPF bigprodject\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\WPF bigprodject\WPF bigprodject\obj\Debug\SecondWindow.baml
+C:\Users\user\source\repos\WPF bigprodject\WPF bigprodject\obj\Debug\WPF bigprodject.g.resources
+C:\Users\user\source\repos\WPF bigprodject\WPF bigprodject\obj\Debug\WPF_bigprodject.Properties.Resources.resources
+C:\Users\user\source\repos\WPF bigprodject\WPF bigprodject\obj\Debug\WPF bigprodject.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WPF bigprodject\WPF bigprodject\obj\Debug\WPF bigprodject.exe
+C:\Users\user\source\repos\WPF bigprodject\WPF bigprodject\obj\Debug\WPF bigprodject.pdb
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\bin\Debug\WPF bigprodject.exe.config
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\bin\Debug\WPF bigprodject.exe
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\bin\Debug\WPF bigprodject.pdb
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\WPF bigprodject.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\SecondWindow.g.cs
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\App.g.cs
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\WPF bigprodject_MarkupCompile.cache
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\WPF bigprodject_MarkupCompile.lref
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\SecondWindow.baml
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\WPF bigprodject.g.resources
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\WPF_bigprodject.Properties.Resources.resources
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\WPF bigprodject.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\WPF bigprodject.exe
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\WPF bigprodject.pdb
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\AddNewUserWindow.g.cs
+C:\Users\user\source\repos\WPFbigprodject\WPF bigprodject\obj\Debug\AddNewUserWindow.baml

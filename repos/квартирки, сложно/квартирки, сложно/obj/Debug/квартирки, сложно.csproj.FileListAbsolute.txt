@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\квартирки, сложно\квартирки, сложно\bin\Debug\квартирки, сложно.exe.config
+C:\Users\User\source\repos\квартирки, сложно\квартирки, сложно\bin\Debug\квартирки, сложно.exe
+C:\Users\User\source\repos\квартирки, сложно\квартирки, сложно\bin\Debug\квартирки, сложно.pdb
+C:\Users\User\source\repos\квартирки, сложно\квартирки, сложно\obj\Debug\квартирки, сложно.csprojAssemblyReference.cache
+C:\Users\User\source\repos\квартирки, сложно\квартирки, сложно\obj\Debug\квартирки, сложно.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\квартирки, сложно\квартирки, сложно\obj\Debug\квартирки, сложно.exe
+C:\Users\User\source\repos\квартирки, сложно\квартирки, сложно\obj\Debug\квартирки, сложно.pdb

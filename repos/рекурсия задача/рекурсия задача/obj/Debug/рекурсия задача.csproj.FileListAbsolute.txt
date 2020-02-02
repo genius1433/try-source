@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\рекурсия задача\рекурсия задача\bin\Debug\рекурсия задача.exe.config
+C:\Users\User\source\repos\рекурсия задача\рекурсия задача\bin\Debug\рекурсия задача.exe
+C:\Users\User\source\repos\рекурсия задача\рекурсия задача\bin\Debug\рекурсия задача.pdb
+C:\Users\User\source\repos\рекурсия задача\рекурсия задача\obj\Debug\рекурсия задача.csprojAssemblyReference.cache
+C:\Users\User\source\repos\рекурсия задача\рекурсия задача\obj\Debug\рекурсия задача.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\рекурсия задача\рекурсия задача\obj\Debug\рекурсия задача.exe
+C:\Users\User\source\repos\рекурсия задача\рекурсия задача\obj\Debug\рекурсия задача.pdb

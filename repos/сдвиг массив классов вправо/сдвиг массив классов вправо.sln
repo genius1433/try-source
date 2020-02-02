@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "сдвиг массив классов вправо", "сдвиг массив классов вправо\сдвиг массив классов вправо.csproj", "{BFCF426F-D8A5-49D0-845E-0BB072E80E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCF426F-D8A5-49D0-845E-0BB072E80E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCF426F-D8A5-49D0-845E-0BB072E80E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCF426F-D8A5-49D0-845E-0BB072E80E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCF426F-D8A5-49D0-845E-0BB072E80E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0A0EC4E-0E4E-42E9-B082-20F633E10054}
+	EndGlobalSection
+EndGlobal

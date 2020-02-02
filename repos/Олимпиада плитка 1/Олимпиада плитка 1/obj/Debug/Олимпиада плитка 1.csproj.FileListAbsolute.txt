@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Олимпиада плитка 1\Олимпиада плитка 1\bin\Debug\Олимпиада плитка 1.exe.config
+C:\Users\user\source\repos\Олимпиада плитка 1\Олимпиада плитка 1\bin\Debug\Олимпиада плитка 1.exe
+C:\Users\user\source\repos\Олимпиада плитка 1\Олимпиада плитка 1\bin\Debug\Олимпиада плитка 1.pdb
+C:\Users\user\source\repos\Олимпиада плитка 1\Олимпиада плитка 1\obj\Debug\Олимпиада плитка 1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Олимпиада плитка 1\Олимпиада плитка 1\obj\Debug\Олимпиада плитка 1.exe
+C:\Users\user\source\repos\Олимпиада плитка 1\Олимпиада плитка 1\obj\Debug\Олимпиада плитка 1.pdb
