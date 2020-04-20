@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Паттерны 3 Мировая Война\Паттерны 3 Мировая Война\bin\Debug\netcoreapp3.1\Паттерны 3 Мировая Война.exe
+C:\Users\user\source\repos\Паттерны 3 Мировая Война\Паттерны 3 Мировая Война\bin\Debug\netcoreapp3.1\Паттерны 3 Мировая Война.deps.json
+C:\Users\user\source\repos\Паттерны 3 Мировая Война\Паттерны 3 Мировая Война\bin\Debug\netcoreapp3.1\Паттерны 3 Мировая Война.runtimeconfig.json
+C:\Users\user\source\repos\Паттерны 3 Мировая Война\Паттерны 3 Мировая Война\bin\Debug\netcoreapp3.1\Паттерны 3 Мировая Война.runtimeconfig.dev.json
+C:\Users\user\source\repos\Паттерны 3 Мировая Война\Паттерны 3 Мировая Война\bin\Debug\netcoreapp3.1\Паттерны 3 Мировая Война.dll
+C:\Users\user\source\repos\Паттерны 3 Мировая Война\Паттерны 3 Мировая Война\bin\Debug\netcoreapp3.1\Паттерны 3 Мировая Война.pdb
+C:\Users\user\source\repos\Паттерны 3 Мировая Война\Паттерны 3 Мировая Война\obj\Debug\netcoreapp3.1\Паттерны 3 Мировая Война.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Паттерны 3 Мировая Война\Паттерны 3 Мировая Война\obj\Debug\netcoreapp3.1\Паттерны 3 Мировая Война.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Паттерны 3 Мировая Война\Паттерны 3 Мировая Война\obj\Debug\netcoreapp3.1\Паттерны 3 Мировая Война.AssemblyInfo.cs
+C:\Users\user\source\repos\Паттерны 3 Мировая Война\Паттерны 3 Мировая Война\obj\Debug\netcoreapp3.1\Паттерны 3 Мировая Война.dll
+C:\Users\user\source\repos\Паттерны 3 Мировая Война\Паттерны 3 Мировая Война\obj\Debug\netcoreapp3.1\Паттерны 3 Мировая Война.pdb
+C:\Users\user\source\repos\Паттерны 3 Мировая Война\Паттерны 3 Мировая Война\obj\Debug\netcoreapp3.1\Паттерны 3 Мировая Война.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Паттерны 3 Мировая Война\Паттерны 3 Мировая Война\obj\Debug\netcoreapp3.1\Паттерны 3 Мировая Война.genruntimeconfig.cache

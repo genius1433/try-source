@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\иерархия классов трена\иерархия классов трена\bin\Debug\иерархия классов трена.exe.config
+C:\Users\user\source\repos\иерархия классов трена\иерархия классов трена\bin\Debug\иерархия классов трена.exe
+C:\Users\user\source\repos\иерархия классов трена\иерархия классов трена\bin\Debug\иерархия классов трена.pdb
+C:\Users\user\source\repos\иерархия классов трена\иерархия классов трена\obj\Debug\иерархия классов трена.csprojAssemblyReference.cache
+C:\Users\user\source\repos\иерархия классов трена\иерархия классов трена\obj\Debug\иерархия классов трена.exe
+C:\Users\user\source\repos\иерархия классов трена\иерархия классов трена\obj\Debug\иерархия классов трена.pdb

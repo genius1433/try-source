@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Паттерны 3 Мировая Война/1.0.0": {
+        "runtime": {
+          "Паттерны 3 Мировая Война.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Паттерны 3 Мировая Война/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Inumerable трена\Inumerable трена\bin\Debug\Inumerable трена.exe.config
+C:\Users\user\source\repos\Inumerable трена\Inumerable трена\bin\Debug\Inumerable трена.exe
+C:\Users\user\source\repos\Inumerable трена\Inumerable трена\bin\Debug\Inumerable трена.pdb
+C:\Users\user\source\repos\Inumerable трена\Inumerable трена\obj\Debug\Inumerable трена.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Inumerable трена\Inumerable трена\obj\Debug\Inumerable трена.exe
+C:\Users\user\source\repos\Inumerable трена\Inumerable трена\obj\Debug\Inumerable трена.pdb

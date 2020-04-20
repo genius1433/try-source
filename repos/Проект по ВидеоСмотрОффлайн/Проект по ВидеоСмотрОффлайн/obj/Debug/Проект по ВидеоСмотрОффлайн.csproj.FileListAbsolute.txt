@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\obj\Debug\Проект по ВидеоСмотрОффлайн.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\obj\Debug\Проект по ВидеоСмотрОффлайн_MarkupCompile.cache
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\obj\Debug\Проект по ВидеоСмотрОффлайн_MarkupCompile.lref
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\bin\Debug\Проект по ВидеоСмотрОффлайн.exe.config
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\bin\Debug\Проект по ВидеоСмотрОффлайн.exe
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\bin\Debug\Проект по ВидеоСмотрОффлайн.pdb
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\obj\Debug\Проект по ВидеоСмотрОффлайн.g.resources
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\obj\Debug\Проект_по_ВидеоСмотрОффлайн.Properties.Resources.resources
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\obj\Debug\Проект по ВидеоСмотрОффлайн.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\obj\Debug\Проект по ВидеоСмотрОффлайн.exe
+C:\Users\user\source\repos\Проект по ВидеоСмотрОффлайн\Проект по ВидеоСмотрОффлайн\obj\Debug\Проект по ВидеоСмотрОффлайн.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inumerable трена", "Inumerable трена\Inumerable трена.csproj", "{05868CEC-6550-4E76-AF55-A1F9F965F227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05868CEC-6550-4E76-AF55-A1F9F965F227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05868CEC-6550-4E76-AF55-A1F9F965F227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05868CEC-6550-4E76-AF55-A1F9F965F227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05868CEC-6550-4E76-AF55-A1F9F965F227}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F87B4D19-E46C-43A1-94A1-8C4978AE4F7A}
+	EndGlobalSection
+EndGlobal

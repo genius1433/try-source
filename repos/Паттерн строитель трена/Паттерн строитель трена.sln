@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Паттерн строитель трена", "Паттерн строитель трена\Паттерн строитель трена.csproj", "{14768626-1804-442E-BF3A-0CC2DF38CB63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14768626-1804-442E-BF3A-0CC2DF38CB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14768626-1804-442E-BF3A-0CC2DF38CB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14768626-1804-442E-BF3A-0CC2DF38CB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14768626-1804-442E-BF3A-0CC2DF38CB63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B7E5EEC-9016-4583-9AA9-5A673593C424}
+	EndGlobalSection
+EndGlobal

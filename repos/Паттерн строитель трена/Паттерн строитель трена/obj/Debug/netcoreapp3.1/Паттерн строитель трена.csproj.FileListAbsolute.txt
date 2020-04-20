@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\Паттерн строитель трена\Паттерн строитель трена\obj\Debug\netcoreapp3.1\Паттерн строитель трена.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Паттерн строитель трена\Паттерн строитель трена\obj\Debug\netcoreapp3.1\Паттерн строитель трена.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Паттерн строитель трена\Паттерн строитель трена\obj\Debug\netcoreapp3.1\Паттерн строитель трена.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Паттерн строитель трена\Паттерн строитель трена\obj\Debug\netcoreapp3.1\Паттерн строитель трена.AssemblyInfo.cs
